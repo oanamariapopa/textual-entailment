@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entailment-corpus lang="EN">
+  <pair id="1" entailment="ENTAILMENT" task="IE">
+<t>    Climate change would affect absolutely everywhere on earth.</t>
+    <h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="2" entailment="ENTAILMENT" task="IE">
+<t>     All that white fur will make them sitting ducks if the snow and ice melt away.</t>
+    <h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="3" entailment="ENTAILMENT" task="IE">
+<t>    It is usually accepted that climate change happens and affects oceans and Earth as an ecosystem.</t>
+    <h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="4" entailment="ENTAILMENT" task="IE">
+<t>    This further may influence the economy in various countries and ultimately the lives of the people living there.</t>
+    <h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="5" entailment="NONENTAILMENT" task="IE">
+<t>    Free speech is ALL speech.</t>
+    <h>Climate Skeptics Should All Be Arrested</h>
+  </pair>
+  <pair id="6" entailment="NONENTAILMENT" task="IE">
+<t>     Fact 1: There has been no significant atmospheric warming since 1998.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="7" entailment="NONENTAILMENT" task="IE">
+<t>    First my opponent says that I should have asked questions about the structure earlier in the debate but ignores the fact that, in the comment section, I did ask about the order of the debate and explain what I thought it meant.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="8" entailment="ENTAILMENT" task="IE">
+<t>    My opponent throws around a bunch of irrelevant facts to try to disprove highly credible and peer reviewed articles.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="9" entailment="NONENTAILMENT" task="IE">
+<t>     Rebuttals: Strong hurricane numbers have stayed almost constant since 1880: http://commdiginews.wpengine.netdna-cdn.com.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="10" entailment="ENTAILMENT" task="IE">
+<t>    My opponent uses the tired strategy of cherry picking evidence and red herrings by climate change deniers.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="11" entailment="ENTAILMENT" task="IE">
+<t>    http://iopscience.iop.org...1.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="12" entailment="ENTAILMENT" task="IE">
+<t>    R1 Acceptance R2-3 Arguments amp; rebuttals R4 No new arguments  You beat me last time, I figured its time to challenge you to a rematch.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="13" entailment="NONENTAILMENT" task="IE">
+<t>    I gladly accept your debate and look forward to your arguments.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="14" entailment="ENTAILMENT" task="IE">
+<t>    quot;Trump, who backed climate action in 2009 but now describes climate change as “$%^amp;”, is also out of step with the US and other governments’ efforts to turn emissions-cutting pledges into concrete actions in the wake of the Paris climate agreement.</t>
+    <h>Donald Trump is a climate change denier.</h>
+  </pair>
+  <pair id="15" entailment="ENTAILMENT" task="IE">
+<t>     As a devout socialist (coughs and splutters- apparently the word communist is illegal nowadays) I can confirm that the idea of an environment is a plot to destroy the capitalist infidels of the west, the idea is to push their focus so far into ideas of global warming and the environment that they will not see the coming revolution.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="16" entailment="NONENTAILMENT" task="IE">
+<t>    I would say the idea of the environment started with Charles Darwin in 1859.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="17" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;m not sure where some people get these ideas from, but I think this is so crazy I canapos;t even see the other point of view.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="18" entailment="ENTAILMENT" task="IE">
+<t>    Co2 and global temperature have a two way causality relationship.</t>
+    <h>Manmade global climate change is real and is a threat.</h>
+  </pair>
+  <pair id="19" entailment="NONENTAILMENT" task="IE">
+<t>    That the deniers are whistle blowers.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="20" entailment="ENTAILMENT" task="IE">
+<t>    There is an overwhelming scientific consensus climate change presents a serious risk to the future of the Earth and to mankind.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="21" entailment="NONENTAILMENT" task="IE">
+<t>    Assume for a second that the deniers are wrong.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="22" entailment="NONENTAILMENT" task="IE">
+<t>    http://www.washingtontimes.com.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="23" entailment="ENTAILMENT" task="IE">
+<t>    We could also find out years from now that children arenapos;t harmed in the production of child porn even though the evidence right now is substantial and overwhelming children are being harmed by child porn.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="24" entailment="ENTAILMENT" task="IE">
+<t>    You want both sides to be able to debate-- but there is nothing really to debate.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="25" entailment="NONENTAILMENT" task="IE">
+<t>     My opponents second argument states, quot;quot;quot;When the Earth comes out of an ice age, the warming is not initiated by CO2 but by changes in the Earthapos;s orbit.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="26" entailment="ENTAILMENT" task="IE">
+<t>    quot;Your first argument, quot;Carbon dioxide is at 404.48 parts per million and the temperature has increased 1.4 degrees Fahrenheit since 1880.quot; That is not a scientific argument.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="27" entailment="ENTAILMENT" task="IE">
+<t>    Manmade global climate change is the general increase in temperature at rapid rates that is mainly caused by CO2 from industry increases.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="28" entailment="NONENTAILMENT" task="IE">
+<t>    Especially when 25% of all Co2 produced by man has been released in the last 20 years and in that time there has been NO NET WARMING.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="29" entailment="NONENTAILMENT" task="IE">
+<t>     Fact 1: Co2 is a weak greenhouse gas.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="30" entailment="ENTAILMENT" task="IE">
+<t>    My opponentapos;s argument seems endless and confusing.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="31" entailment="NONENTAILMENT" task="IE">
+<t>     Man Made Climate Change, The FACTS:  1.There is NO way to test whether Co2 is the most contributing factor to the worldquot;s climate: Many people I have met say, quot;Manmade global warming is real and Co2 is the cause!quot; but how do you actually test that.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="32" entailment="NONENTAILMENT" task="IE">
+<t>     According to your second argument, Co2 is at 400 ppm.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="33" entailment="NONENTAILMENT" task="IE">
+<t>    Thank you for being honest and admitting you donapos;t understand my arguments.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="34" entailment="ENTAILMENT" task="IE">
+<t>    quot;Not only is the idea that Co2 is causing the recent warming preposterous, but it just doesnquot;t make any sense.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="35" entailment="ENTAILMENT" task="IE">
+<t>    Iapos;m putting this under religion since people are talking faith based approaches to climate change.I have noticed that a surprising number of people still think global climate change is a hoax.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="36" entailment="ENTAILMENT" task="IE">
+<t>    Maybe, just maybe if I had a year to respond I could defeat you.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="37" entailment="ENTAILMENT" task="IE">
+<t>     Here are my reasons: 1.There is NO way to test whether Co2 is the most contributing factor to the worldquot;s climate: Many people I have met say, quot;Man made global warming is real and Co2 is the cause!quot; but how do you actually test that.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="38" entailment="ENTAILMENT" task="IE">
+<t>    There is not doubt in my mind that Co2 causes warming.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="39" entailment="NONENTAILMENT" task="IE">
+<t>     My evidence that CO2 has a huge impact is here:  1: My opponent has acknowledged that CO2 is a green house gas.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="40" entailment="NONENTAILMENT" task="IE">
+<t>     My opponents 1st point states that there is no hard proof that CO2 from humans is the most important part to causing global warming.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="41" entailment="ENTAILMENT" task="IE">
+<t>    My opponents first second and third points state, quot;My opponent has acknowledged that CO2 is a green house gas.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="42" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;ve shown multiple times that the predictions of those claiming manmade climate change is going to destroy the world have been incorrect.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="43" entailment="ENTAILMENT" task="IE">
+<t>    My opponent is correct the Earthapos;s temperature has been hotter a long time ago.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="44" entailment="ENTAILMENT" task="IE">
+<t>    quot;I like how you reference a democrat to put doubt into my quot;conservativequot; site.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="45" entailment="NONENTAILMENT" task="IE">
+<t>    This is a much deeper topic and, iapos;ll say again, this is a scientific debates.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="46" entailment="NONENTAILMENT" task="IE">
+<t>    The Earth has been SIGNFICANTLY hotter in the past (and more dynamic for that matter), see http://www.wrsc.org.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="47" entailment="NONENTAILMENT" task="IE">
+<t>    In this round I will be refuting my opponentapos;s arguments and I will be resupporting my own arguments My opponent statedquot;First my arguments still stand.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="48" entailment="NONENTAILMENT" task="IE">
+<t>    Thank you for posting this debate, I hope to be a worthy opponent!!!!Your argument is based on the popeapos;s opinion as well as a scientific documentaryMy argument will be based on historical evidence as well as current scientific evidence that contradicts the theory of Global Climate ChangeFirst Iapos;d like to clarify that Global Warming and Global Climate Change are the same theory with a different name and I will treat them as such.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="49" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent stated thatquot;First and foremost, my opponent has dropped the issue of the Inconvenient truth documentaryquot; However, my entire case has been in contradiction to the inconvenient truth documentary, as seen when my opponent states quot;scientific evidence clearly backs up this claim in the documentary an inconvenient truthquot;, I have offered scientific in direct contradiction to the scientific evidence in the movie, thus I have negated my opponentapos;s ENTIRE argument.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="50" entailment="ENTAILMENT" task="IE">
+<t>    [3]quot;The main human activity that emits CO2 is the combustion of fossil fuels (coal, natural gas, and oil) for energy and transportationquot; [2]From the above statement you can clearly see that burning oil causes green house gases.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="51" entailment="ENTAILMENT" task="IE">
+<t>    Argument one, burning of fossil fuels increase Co2.Iapos;ve shown that the EPA states that burning of fossil fuels increase the greenhouse gas of CO2.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="52" entailment="ENTAILMENT" task="IE">
+<t>    I have noticed that a surprising number of people still think global climate change is a hoax.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="53" entailment="ENTAILMENT" task="IE">
+<t>    Google docs are not a violation of conduct.</t>
+    <h>Global warming is a fraud</h>
+  </pair>
+  <pair id="54" entailment="NONENTAILMENT" task="IE">
+<t>    72% of the totally emitted greenhouse gases is carbon dioxide (CO2), 18% Methane and 9% Nitrous oxide (NOx).</t>
+    <h>Global warming is a fraud</h>
+  </pair>
+  <pair id="55" entailment="NONENTAILMENT" task="IE">
+<t>    No rational person could see the evidence and still deny it, unless the oppressive capitalists were warping that personapos;s views to further their own agenda of ruthless self-interest.OPEN YOUR EYES and LOOK at the evidence:http://climate.nasa.gov...http://www.icr.org...http://www.skepticalscience.com...http://usliberals.about.com...http://www.ucsusa.org...I look forward to tearing apart your counter-argument.Proletarian comrades, Unite!Hail the revolution!s://tse1.mm.bing.net...; alt=quot;quot; /gt;.</t>
+    <h>Global warming is a fraud</h>
+  </pair>
+  <pair id="56" entailment="NONENTAILMENT" task="IE">
+<t>    Your second source: the evidence presented here is dubious at best: quot;No.</t>
+    <h>Global warming is a fraud</h>
+  </pair>
+  <pair id="57" entailment="ENTAILMENT" task="IE">
+<t>    My opponent again has failed to prove his point, he claims that CO2 causes global warming, then shows that CO2 emmissions are increasing and so is the global temparture.</t>
+    <h>Global warming is a fraud</h>
+  </pair>
+  <pair id="58" entailment="ENTAILMENT" task="IE">
+<t>    I have proven that the global tempartures are dropping:http://www.newsmax.com...https://wattsupwiththat.com...You also ignored my third source.</t>
+    <h>Global warming is a fraud</h>
+  </pair>
+  <pair id="59" entailment="ENTAILMENT" task="IE">
+<t>    Every single one of your sources only proves that the environment has morecarbon dioxide, not that this is increasing the tempature, infact the icacaps are growing:https://www.nasa.gov...; http://news.nationalgeographic.com.</t>
+    <h>Global warming is a fraud</h>
+  </pair>
+  <pair id="60" entailment="ENTAILMENT" task="IE">
+<t>    Now, I believe that Co2 has a small effect on the climate, but there is simply no evidence saying that we will die.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="61" entailment="NONENTAILMENT" task="IE">
+<t>    As you can see, my opponent has stated the exact opposite of what is true in regards to climate change.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="62" entailment="NONENTAILMENT" task="IE">
+<t>    And while I donapos;t personally believe that man made climate change is as big as you stated, but we do have an $8,000,000,000 department called the Environmental Protection Agency.quot; Climate change is real and is a threat.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="63" entailment="NONENTAILMENT" task="IE">
+<t>    With the environment becoming increasingly an issue I think its a high time we elect a green party representative.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="64" entailment="ENTAILMENT" task="IE">
+<t>    While I normally donapos;t find it important to bring up, but people often bring it up, but Johnsonapos;s achievements as a Republican are not meaningless just because he is now a Libertarian, for as a republican, Johnson upheld a strictly Libertarian sort of Raegan Coolidge like platform, so nothing really changed except party.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="65" entailment="ENTAILMENT" task="IE">
+<t>    Now your claim that Jill Stein has a more prestigious degree is true in fact, but agin, its not a political degree, meanwhile Gary Johnson has a degree in political science.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="66" entailment="ENTAILMENT" task="IE">
+<t>     My only rules are that you pick one of these four candidates and that you are respectful and civil throughout the debate.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="67" entailment="NONENTAILMENT" task="IE">
+<t>    Jill Stein.</t>
+    <h>Gary Johnson is our best choice for president</h>
+  </pair>
+  <pair id="68" entailment="NONENTAILMENT" task="IE">
+<t>    quot;1.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="69" entailment="ENTAILMENT" task="IE">
+<t>    I have immense respect for Pope Francis.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="70" entailment="NONENTAILMENT" task="IE">
+<t>    Thanks for accepting.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="71" entailment="ENTAILMENT" task="IE">
+<t>    My opponent has dropped every issues except the ozone layer.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="72" entailment="NONENTAILMENT" task="IE">
+<t>    I chose to play defense and only address the points you made, which were few.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="73" entailment="ENTAILMENT" task="IE">
+<t>    I have noticed that a surprising number of people still think global climate change is a hoax.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="74" entailment="NONENTAILMENT" task="IE">
+<t>    You simply said that Co2 levels are higher then we expected.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="75" entailment="ENTAILMENT" task="IE">
+<t>    quot;Now on to your claim of Co2 levels.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="76" entailment="NONENTAILMENT" task="IE">
+<t>    Back in the 70s virtually every scientist agreed that we were going into a massive ice age, and now they have flip flopped and now think the globe is warming.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="77" entailment="NONENTAILMENT" task="IE">
+<t>    In most cases, you will see that studies that indicate a rapid change are botched, as seen in my 97% debate.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="78" entailment="ENTAILMENT" task="IE">
+<t>    R2 rebuttalsquot;I would like to thank my opponent for the opportunity to be able to debate this fascinating topic.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="79" entailment="NONENTAILMENT" task="IE">
+<t>     My opponent unfortunately makes some shallow assumptions, in that they believe Donald Trump legitimately believes everything heapos;s said.</t>
+    <h>Donald Trump thinks climate change is a hoax.</h>
+  </pair>
+  <pair id="80" entailment="ENTAILMENT" task="IE">
+<t>    In other words you claim Donald Trump is a compulsive liar who will say anything to turn heads.</t>
+    <h>Donald Trump thinks climate change is a hoax.</h>
+  </pair>
+  <pair id="81" entailment="NONENTAILMENT" task="IE">
+<t>     Anyway, my contentions havenapos;t been addressed at all.</t>
+    <h>Donald Trump thinks climate change is a hoax.</h>
+  </pair>
+  <pair id="82" entailment="ENTAILMENT" task="IE">
+<t>     In your own link there is further proof that Donald Trump is not a believer in climate change and thus thinks its a hoax.</t>
+    <h>Donald Trump thinks climate change is a hoax.</h>
+  </pair>
+  <pair id="83" entailment="ENTAILMENT" task="IE">
+<t>    Claim: Donald claims climate change is a hoax.</t>
+    <h>Donald Trump thinks climate change is a hoax.</h>
+  </pair>
+  <pair id="84" entailment="NONENTAILMENT" task="IE">
+<t>    Ok so my opponent conceded the first 2 rounds of the debate and decided to bring a completely new contention the very last round.</t>
+    <h>Donald Trump thinks climate change is a hoax.</h>
+  </pair>
+  <pair id="85" entailment="ENTAILMENT" task="IE">
+<t>    If pandas refuse to mate quickly enough to populate the planet then screw them, let them die out.</t>
+    <h>This world should be polluted</h>
+  </pair>
+  <pair id="86" entailment="NONENTAILMENT" task="IE">
+<t>     82% of the population uses fossil fuels, thatapos;s more than half the world.</t>
+    <h>This world should be polluted</h>
+  </pair>
+  <pair id="87" entailment="NONENTAILMENT" task="IE">
+<t>    Actually people use 1.2 billion vehicles in the world + 36.5 million smokers smoke each day thats 1277.5 million a year.</t>
+    <h>This world should be polluted</h>
+  </pair>
+  <pair id="88" entailment="ENTAILMENT" task="IE">
+<t>    Even with all of the smokers and drivers, add in all of the factories and air travel, add in coal use and everything else we do...people still only produce 3% of greenhouse gas.</t>
+    <h>This world should be polluted</h>
+  </pair>
+  <pair id="89" entailment="ENTAILMENT" task="IE">
+<t>    Petersburg/Tampa Bay Times specifically, Conservative Democrat wrote:  quot;(T)his doesnapos;t prove that PoliticFact [sic] is biased unless we have other evidence as well.quot;  The debate challenge does not ask for proof.</t>
+    <h>Does the website "PolitiFact" have a liberal bias?</h>
+  </pair>
+  <pair id="90" entailment="ENTAILMENT" task="IE">
+<t>    PolitiFactapos;s leftward lean does not yet receive the full attention it deserves, so I appreciate the opportunity to make the case.</t>
+    <h>Does the website "PolitiFact" have a liberal bias?</h>
+  </pair>
+  <pair id="91" entailment="NONENTAILMENT" task="IE">
+<t>     quot;First, American journalists as a group are to the left of the general U.S.</t>
+    <h>Does the website "PolitiFact" have a liberal bias?</h>
+  </pair>
+  <pair id="92" entailment="NONENTAILMENT" task="IE">
+<t>    They rate more claims by conservatives false then they do liberals.</t>
+    <h>Does the website "PolitiFact" have a liberal bias?</h>
+  </pair>
+  <pair id="93" entailment="NONENTAILMENT" task="IE">
+<t>    These laws responded to the consequences of unregulated industrial development that had fouled those resources to the point where rivers were not fishable, air was unhealthy to breathe, and land contamination put Love Canal at the forefront of national consciousness.</t>
+    <h>environmental education and not environmental prosecution is the answer to waste management problems</h>
+  </pair>
+  <pair id="94" entailment="ENTAILMENT" task="IE">
+<t>    environmental education does not advocate a particular newpoint of course of action but rather teaches individuals how to weigh various sides of an issue through critical thinking and it enhances their own problem solving and decision making skills.</t>
+    <h>environmental education and not environmental prosecution is the answer to waste management problems</h>
+  </pair>
+  <pair id="95" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent has forfeited the debate.</t>
+    <h>environmental education and not environmental prosecution is the answer to waste management problems</h>
+  </pair>
+  <pair id="96" entailment="NONENTAILMENT" task="IE">
+<t>    Please extend my arguments.</t>
+    <h>environmental education and not environmental prosecution is the answer to waste management problems</h>
+  </pair>
+  <pair id="97" entailment="NONENTAILMENT" task="IE">
+<t>    ---------All my opponent presented was quotes either fabricated or uncontroversialAnd his only source for them was like an untrusted infomercialHeck some of the quotes he provided are not stupid to begin withAnd I doubt--anyone but him--would find them controversial.I sit here busting rhymes from the depths of my lyrical reserveAgainst an asymptote way beneath my controversy curveMy opponent doesnapos;t ride my simple rap challengeBut to be fair nobody could go against it and manage.He saw my lines of rap and quickly fumbled and stumbledI tried to give him some air he lost the air and crumbledThe premise of this challenge gets more elusiveBut itapos;s whoapos;s more stupid and controversial from what he has mumbled.To tell you why Rahul Gandhi in controversy is more dominantTrump disrupts a small country, Rahul disrupts a whole subcontinentRahul is the staunch Satan messing with a Hindu majorityWhile Trump is a lousy mouthpiece for popular white superiority.He says I failed this yearapos;s elections but admits I have won beforeEven when I was accused of gang-rape[1] and my dead father accused of much more[2]While Trump in all his greatness has never won any trophy in his lifeAnd yes here I am excluding Melania--his--trophy wife.Compare your quotes to my stupid and controversial quotes And see real stupid and controversial while youapos;re taking notes:When in group-rape I tried to venture:quot;People going to temples[Hindus].</t>
+    <h>Donald Trump (pro) vs Rahul Gandhi (con)</h>
+  </pair>
+  <pair id="98" entailment="ENTAILMENT" task="IE">
+<t>    Trumpapos;s few sayings quot;My parents came all the way from Germany to America not to see it overtaken by immigrants.quot; quot;Crooked Hilary Clintonquot; quot;extremely credible source has called my office and told me that Barack Obamaapos;s birth certificate is a fraudquot; quot;Ariana Huffington is unattractive, both inside and out.</t>
+    <h>Donald Trump (pro) vs Rahul Gandhi (con)</h>
+  </pair>
+  <pair id="99" entailment="NONENTAILMENT" task="IE">
+<t>    Hello there Mr.</t>
+    <h>Donald Trump (pro) vs Rahul Gandhi (con)</h>
+  </pair>
+  <pair id="100" entailment="NONENTAILMENT" task="IE">
+<t>    Those are just some bars for a good ending: I drop my lines like bombs down the trenches of Iwo JimaLife curls up on its back as the grim reaper stands supremerThe mushroom-could expands but it ainapos;t what it seemsThatapos;s the penis of Rahul Gandhi up the skies of Hiroshima.</t>
+    <h>Donald Trump (pro) vs Rahul Gandhi (con)</h>
+  </pair>
+  <pair id="101" entailment="ENTAILMENT" task="IE">
+<t>    How many hours did you spend preparing all that rap.</t>
+    <h>Donald Trump (pro) vs Rahul Gandhi (con)</h>
+  </pair>
+  <pair id="102" entailment="ENTAILMENT" task="IE">
+<t>    Trump seems to be more serious, it would be fun to see what he does as president.</t>
+    <h>Donald Trump (pro) vs Rahul Gandhi (con)</h>
+  </pair>
+  <pair id="103" entailment="ENTAILMENT" task="IE">
+<t>    Con also states, quot;It may promote development of underwater cities as they would have to do it for survival.quot; I thought we were going to try and solve global warming, not run away from it.3) We must find a viable replacement of fossil fuels rather than targeting the removal of co2.</t>
+    <h>global warming (pro) vs fuel crisis (con) which is more important?</h>
+  </pair>
+  <pair id="104" entailment="ENTAILMENT" task="IE">
+<t>    However, currently global warming isnapos;t killing anyone as such, yes the Polar bears are losing some habitat, but according to my sources Arctic ice had increased from 2010, which is contrary to the expectations of global warming experts.</t>
+    <h>global warming (pro) vs fuel crisis (con) which is more important?</h>
+  </pair>
+  <pair id="105" entailment="NONENTAILMENT" task="IE">
+<t>    Not hydropower, not solar panels, but fossil fuels.</t>
+    <h>global warming (pro) vs fuel crisis (con) which is more important?</h>
+  </pair>
+  <pair id="106" entailment="ENTAILMENT" task="IE">
+<t>    Beginning with definitions:Fuel crisis: a great bottleneck (or price rise) in the supply of energy resources to an economy.Global warming: a gradual increase in the overall temperature of the earthapos;s atmosphere generally attributed to the greenhouse effect caused by increased levels of carbon dioxide, chlorofluorocarbons, and other pollutants.Now, Iapos;ll refute your arguments.1) Currently, it would take more time for global warming to become extremely lethal than it would be for the fuel crisis.The fuel crisis will also take a long time to become extremely lethal.</t>
+    <h>global warming (pro) vs fuel crisis (con) which is more important?</h>
+  </pair>
+  <pair id="107" entailment="NONENTAILMENT" task="IE">
+<t>    quot;1) Currently, it would take more time for global warming to become extremely lethal than it would be for the fuel crisis.</t>
+    <h>global warming (pro) vs fuel crisis (con) which is more important?</h>
+  </pair>
+  <pair id="108" entailment="NONENTAILMENT" task="IE">
+<t>    Also, some of these links believe global warming may not be true- http://www.conserve-energy-future.com.</t>
+    <h>global warming (pro) vs fuel crisis (con) which is more important?</h>
+  </pair>
+  <pair id="109" entailment="ENTAILMENT" task="IE">
+<t>    I would like to thank beforeifall for accepting this debate.CO2apos;s Effect on TemperatureFirst, correlation.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="110" entailment="NONENTAILMENT" task="IE">
+<t>    Numerous alternate causes to global warming prove that humans are not the primary source.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="111" entailment="ENTAILMENT" task="IE">
+<t>    It will be assumed that it does.BoP is shared.DefinitionsMankind: quot;The human race; human beings collectively without reference to sex; humankind.quot;[1]Main: quot;Chief in size, extent, or importance; principal; leading;quot;[2]Cause: quot;A person or thing that acts, happens, or exists in such a way that some specific thing happens as a result; the producer of an effect.quot;[3]Global Warming: The rise in the average temperature of Earthapos;s atmosphere and oceans since the late 19th century, and its projected continuation.[4]Rules1.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="112" entailment="NONENTAILMENT" task="IE">
+<t>    Consider this my acceptance.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="113" entailment="ENTAILMENT" task="IE">
+<t>    The quot;seesawquot; or quot;Southern leadquot; appearance of the data arises from the fundamentally different characeristics of the climate series, most importantly the absence of rapid warming events in Antarctica comparable to those in Greenlandquot;.[1]However, in the current case, we see that both the northern and southern hemispheres are warming, meaning that it cannot be due to the 1500-year cycles.[2]Human Emissions of Carbon DioxideThe claim that CO2 levels were higher during certain ice ages is based off of old, faulty data.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="114" entailment="ENTAILMENT" task="IE">
+<t>    Hopefully my opponent will at least respond to my original arguments.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="115" entailment="ENTAILMENT" task="IE">
+<t>     Your first point was how even though data shows a correlation between CO2 emissions and temperature, carbon emission is not the largest factor.</t>
+    <h>CO2 emissions are directly responsible for climate change.</h>
+  </pair>
+  <pair id="116" entailment="NONENTAILMENT" task="IE">
+<t>    The Macquarie Dictionary defines the term quot;climate changequot; as- a significant change in the usual climatic conditions especially that thought to be caused by global warming.</t>
+    <h>CO2 emissions are directly responsible for climate change.</h>
+  </pair>
+  <pair id="117" entailment="NONENTAILMENT" task="IE">
+<t>    Before I begin I would like to initially reinforce the topic of the debate: CO2 emissions are DIRECTLY responsible for climate change.</t>
+    <h>CO2 emissions are directly responsible for climate change.</h>
+  </pair>
+  <pair id="118" entailment="NONENTAILMENT" task="IE">
+<t>    I do know that the topic is quot;CO2 is the largest factor in global warmingquot;, and that is what I am arguing.</t>
+    <h>CO2 emissions are directly responsible for climate change.</h>
+  </pair>
+  <pair id="119" entailment="ENTAILMENT" task="IE">
+<t>    I do know that the topic is quot;CO2 is the largest factor in global warmingquot;, and that is what I am arguing.</t>
+    <h>CO2 emissions are directly responsible for climate change.</h>
+  </pair>
+  <pair id="120" entailment="ENTAILMENT" task="IE">
+<t>    I obviously recognize that many of these side zoos/aquariums practice animal cruelty, which is definetley illegal.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="121" entailment="ENTAILMENT" task="IE">
+<t>    Zoos are are valuable for public education, awareness, and scientific research.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="122" entailment="ENTAILMENT" task="IE">
+<t>    I admit the zoos arenapos;t the ideal situation for animals.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="123" entailment="NONENTAILMENT" task="IE">
+<t>    One of the researchers for the British study said: quot;In many cases, a trip to the zoo had a negative impact on the childrenquot;s understanding of animals and habitats.quot; Showing children animals in zoos simply teaches them that animals are ours to control.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="124" entailment="NONENTAILMENT" task="IE">
+<t>    As the spend a few seconds at each exhibit and often taunt the animals for entertainment.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="125" entailment="NONENTAILMENT" task="IE">
+<t>    Zoos claim to be good for many things, but they do more harm than good overall.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="126" entailment="NONENTAILMENT" task="IE">
+<t>    This debate is about whether we should be keeping animals in zoos and aquariums.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="127" entailment="ENTAILMENT" task="IE">
+<t>    I accept.</t>
+    <h>Should animals be kept in zoos/aquariums?</h>
+  </pair>
+  <pair id="128" entailment="ENTAILMENT" task="IE">
+<t>    Tucan sam yall.</t>
+    <h>Daylight Savings Time Causes Global Warming</h>
+  </pair>
+  <pair id="129" entailment="ENTAILMENT" task="IE">
+<t>    It's only obvious that an extra hour of sunlight will warm the planet and melt the Polar Ice Caps.</t>
+    <h>Daylight Savings Time Causes Global Warming</h>
+  </pair>
+  <pair id="130" entailment="ENTAILMENT" task="IE">
+<t>    When the ice melts, the oceans rise, and coastal cities flood, don't blame it on me.</t>
+    <h>Daylight Savings Time Causes Global Warming</h>
+  </pair>
+  <pair id="131" entailment="NONENTAILMENT" task="IE">
+<t>     First, 2050 is a projection given by Bill Gates for zero emissions throughout the whole world IF serious and drastic changes are made in reducing of C02 levels.</t>
+    <h>Global Poverty, Education, and hunger are greater issues than global warming/ climate change</h>
+  </pair>
+  <pair id="132" entailment="ENTAILMENT" task="IE">
+<t>     Also, educating more people puts more minds to work on solutions to the issues at hand.</t>
+    <h>Global Poverty, Education, and hunger are greater issues than global warming/ climate change</h>
+  </pair>
+  <pair id="133" entailment="NONENTAILMENT" task="IE">
+<t>    I will be arguing against the statement that quot;Global Poverty, Education, and hunger are greater issues than global climate change.quot; I will begin by defining my terms and clarifying my argument:  Poverty: The state or condition of having little or no money, goods, or means of support; condition of being poor.</t>
+    <h>Global Poverty, Education, and hunger are greater issues than global warming/ climate change</h>
+  </pair>
+  <pair id="134" entailment="NONENTAILMENT" task="IE">
+<t>     All you have to do is tell me what that is and I will go and get it.</t>
+    <h>Global Poverty, Education, and hunger are greater issues than global warming/ climate change</h>
+  </pair>
+  <pair id="135" entailment="ENTAILMENT" task="IE">
+<t>    I will be arguing that Global Poverty, Education, and hunger are greater issues than global warming/ climate change.</t>
+    <h>Global Poverty, Education, and hunger are greater issues than global warming/ climate change</h>
+  </pair>
+  <pair id="136" entailment="ENTAILMENT" task="IE">
+<t>    Sorry for my long delay, I have been busy  Argument: While it is true that currently the climb of global warming is slow, just wait for the quot;point of no return.quot; Havenapos;t heard of it.</t>
+    <h>Global warming is a bigger issue than World Peace</h>
+  </pair>
+  <pair id="137" entailment="NONENTAILMENT" task="IE">
+<t>    In about two and a half centuries, our global temperature has only gone up by that non-remarkable amount (0.00612 per year).</t>
+    <h>Global warming is a bigger issue than World Peace</h>
+  </pair>
+  <pair id="138" entailment="NONENTAILMENT" task="IE">
+<t>    First things first (Iapos;m the realest..gosh that songapos;s old), if we were to ensure the cooperation of our world organization, then we could accomplish so much more.</t>
+    <h>Global warming is a bigger issue than World Peace</h>
+  </pair>
+  <pair id="139" entailment="ENTAILMENT" task="IE">
+<t>    Many websites say that if global warming was stopped, it would help world peace a lot.</t>
+    <h>Global warming is a bigger issue than World Peace</h>
+  </pair>
+  <pair id="140" entailment="ENTAILMENT" task="IE">
+<t>    Global Warming.</t>
+    <h>Global warming is a bigger issue than World Peace</h>
+  </pair>
+  <pair id="141" entailment="NONENTAILMENT" task="IE">
+<t>    World peace is an issue of the utmost urgency.</t>
+    <h>Global warming is a bigger issue than World Peace</h>
+  </pair>
+  <pair id="142" entailment="ENTAILMENT" task="IE">
+<t>    Before I lay out my arguments I would like to make one clarification: the pro side is not arguing that prevention is the ultimate solution.</t>
+    <h>Nations should work to prepare for climate change instead of preventing it.</h>
+  </pair>
+  <pair id="143" entailment="NONENTAILMENT" task="IE">
+<t>    The present effects of global warming and other forms of climate change are well documented.</t>
+    <h>Nations should work to prepare for climate change instead of preventing it.</h>
+  </pair>
+  <pair id="144" entailment="ENTAILMENT" task="IE">
+<t>    I spent some time on this.</t>
+    <h>Nations should work to prepare for climate change instead of preventing it.</h>
+  </pair>
+  <pair id="145" entailment="ENTAILMENT" task="IE">
+<t>    Well this was kind of fun.</t>
+    <h>Nations should work to prepare for climate change instead of preventing it.</h>
+  </pair>
+  <pair id="146" entailment="NONENTAILMENT" task="IE">
+<t>    Since Pro has not established any rules, here are a couple guidelines to follow: 1) Be polite and respectful.</t>
+    <h>Has tech wizard made our life graceless</h>
+  </pair>
+  <pair id="147" entailment="NONENTAILMENT" task="IE">
+<t>    Pro has ventured away from his original resolution that technology is making humans graceless by bringing up issues like global warming and climate change.</t>
+    <h>Has tech wizard made our life graceless</h>
+  </pair>
+  <pair id="148" entailment="ENTAILMENT" task="IE">
+<t>    As said by my con ,quot;Technology has advanced the human race as wholequot;.</t>
+    <h>Has tech wizard made our life graceless</h>
+  </pair>
+  <pair id="149" entailment="ENTAILMENT" task="IE">
+<t>    Yes the techs have made us cattle who are following the same path of getting a apos;likeapos; .From evolution we got tech and now our condition is deteriorating.</t>
+    <h>Has tech wizard made our life graceless</h>
+  </pair>
+  <pair id="150" entailment="NONENTAILMENT" task="IE">
+<t>    Pro has forfeited.They failed to uphold their resolution and my points remain essentially unrefuted.Thanks to Pro for an interesting debate, I had fun.Vote Con.</t>
+    <h>Has tech wizard made our life graceless</h>
+  </pair>
+  <pair id="151" entailment="ENTAILMENT" task="IE">
+<t>    I think green spaces are more important than expansion of cities for economic progress.</t>
+    <h>Open green areas are more important than expansion of cities for economic progress.</h>
+  </pair>
+  <pair id="152" entailment="NONENTAILMENT" task="IE">
+<t>     As for my opponentapos;s global warming claim, she did not provide any evidence for its existence, so her claim should be rejected as the baseless claim that it is.</t>
+    <h>Open green areas are more important than expansion of cities for economic progress.</h>
+  </pair>
+  <pair id="153" entailment="ENTAILMENT" task="IE">
+<t>    Green spaces are the primary need of the people because they are the only one on whom our whole life depends.</t>
+    <h>Open green areas are more important than expansion of cities for economic progress.</h>
+  </pair>
+  <pair id="154" entailment="NONENTAILMENT" task="IE">
+<t>    Having said that, since she has yet to offer any argument of her own, I am still without anything to rebut.</t>
+    <h>Open green areas are more important than expansion of cities for economic progress.</h>
+  </pair>
+  <pair id="155" entailment="NONENTAILMENT" task="IE">
+<t>    I would like to thank my opponent for creating this debate.</t>
+    <h>Open green areas are more important than expansion of cities for economic progress.</h>
+  </pair>
+  <pair id="156" entailment="ENTAILMENT" task="IE">
+<t>    And wherever you will look , you will find the same thing.</t>
+    <h>Open green areas are more important than expansion of cities for economic progress.</h>
+  </pair>
+  <pair id="157" entailment="ENTAILMENT" task="IE">
+<t>    == Intro ==  A carbon tax is a tax levied on the carbon content of fuels, which results in most carbon emissions -- emissions of carbon dioxide, which increases temperature, and occasionally carbon monoxide, which is toxic.</t>
+    <h>The US should adopt a carbon tax</h>
+  </pair>
+  <pair id="158" entailment="ENTAILMENT" task="IE">
+<t>    Iapos;m disappointed that my opponent forfeited.</t>
+    <h>The US should adopt a carbon tax</h>
+  </pair>
+  <pair id="159" entailment="ENTAILMENT" task="IE">
+<t>    The debate will use the quot;opt-inquot; voting standards outlined here.</t>
+    <h>The US should adopt a carbon tax</h>
+  </pair>
+  <pair id="160" entailment="ENTAILMENT" task="IE">
+<t>     I hope everything is fine with my opponent, seeing as they have forfeited.</t>
+    <h>The US should adopt a carbon tax</h>
+  </pair>
+  <pair id="161" entailment="NONENTAILMENT" task="IE">
+<t>    Ok letapos;s see how this goes (fake swagger) lets see if I can somehow pull this off.</t>
+    <h>The US should adopt a carbon tax</h>
+  </pair>
+  <pair id="162" entailment="NONENTAILMENT" task="IE">
+<t>    Dude I forfeited, it happens sorry, anyways I concede the debate.</t>
+    <h>The US should adopt a carbon tax</h>
+  </pair>
+  <pair id="163" entailment="NONENTAILMENT" task="IE">
+<t>    The word apos;mainapos; as used in the debate heading presents the position that humanityapos;s contribution to global warming is greater in magnitude than any other factor.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="164" entailment="ENTAILMENT" task="IE">
+<t>    Its true , there have been cold periods every year.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="165" entailment="ENTAILMENT" task="IE">
+<t>    1) Humanity IS the main cause of global warming.The IPCC Report of 2015 states: Its extremely likely that more than half of the observed increase in global average surface temperature from 1951 to 2010 wascaused by the anthropogenic increase in GHG concentrations and other anthropogenic forcings together.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="166" entailment="NONENTAILMENT" task="IE">
+<t>    I will restate, than in order to establish that the primary cause of global warming is human activity, it is necessary to quantify the amount and effect (not qualify).</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="167" entailment="ENTAILMENT" task="IE">
+<t>    And it is also not my possible (to my knowledge) to quantify the impact of natural causes on climate change as it is unpredictable and can change any time.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="168" entailment="NONENTAILMENT" task="IE">
+<t>    Unfortunately, Pro failed to acknowledge the issue of quot;Attribution of Recent Climate Changequot; which I brought up in Round 4.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="169" entailment="NONENTAILMENT" task="IE">
+<t>    Geographers and Geologists consider the state of the Earth at time present to be in an ice age, albeit a late stage.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="170" entailment="NONENTAILMENT" task="IE">
+<t>    I accept and look forward to the debate.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="171" entailment="ENTAILMENT" task="IE">
+<t>    First round is acceptance only.</t>
+    <h>Humanity is the main cause of global warming.</h>
+  </pair>
+  <pair id="172" entailment="NONENTAILMENT" task="IE">
+<t>    Framework:Economic Globalization: “The trans-national increase in trade and capital transfers across national boundaries.” [http://tinyurl.com...] If I can prove economic globalization will have a net negative effect, I win.</t>
+    <h>Economic Globalization</h>
+  </pair>
+  <pair id="173" entailment="ENTAILMENT" task="IE">
+<t>    Due to economic globalization nationapos;s economies increase, and more money flows into these nations.</t>
+    <h>Economic Globalization</h>
+  </pair>
+  <pair id="174" entailment="NONENTAILMENT" task="IE">
+<t>    **Comment to express interest!!**Resolution: Resolved: Economic globalization is beneficialI will be taking the CON positionRules:No trollingNo kritiksNo semanticsNo forfeitsMaintain a civil and decorous atmosphereAny citations or foot/endnotes must be provided in the text of the debateNo new arguments in the final roundThe BoP is sharedFailure to comply to these stipulations or following round structure renders an automatic lossRound Structure:Round 1:Con - RulesPro - AcceptanceRound 2:Con - Opening ArgumentsPro - Opening ArgumentsRound 3:Con - RebuttalsPro - RebuttalsRound 4:Con - Defense amp; RebuttalsPro - Defense amp; RebuttalsLooking forward to a good debate.</t>
+    <h>Economic Globalization</h>
+  </pair>
+  <pair id="175" entailment="ENTAILMENT" task="IE">
+<t>    I accept this debate, and may the best man win.</t>
+    <h>Economic Globalization</h>
+  </pair>
+  <pair id="176" entailment="NONENTAILMENT" task="IE">
+<t>    Isolation if we donapos;t accept globalizationThis point is objectively false for a number of reasons:1.</t>
+    <h>Economic Globalization</h>
+  </pair>
+  <pair id="177" entailment="ENTAILMENT" task="IE">
+<t>    I would post my argument but sense I forfeited the last round and the rules say no forfeiting I will admin that con wins.</t>
+    <h>Economic Globalization</h>
+  </pair>
+  <pair id="178" entailment="NONENTAILMENT" task="IE">
+<t>    Extend arguments.</t>
+    <h>Economic Globalization</h>
+  </pair>
+  <pair id="179" entailment="NONENTAILMENT" task="IE">
+<t>     Yes, recent measurements of the ice caps do indicate an increase.</t>
+    <h>Is Climate Change A Myth?</h>
+  </pair>
+  <pair id="180" entailment="NONENTAILMENT" task="IE">
+<t>    Cold water sinks from the arctic regions and circulates toward the equator where it rises and warms to return back to where it came pushed by winds and currents.</t>
+    <h>Is Climate Change A Myth?</h>
+  </pair>
+  <pair id="181" entailment="ENTAILMENT" task="IE">
+<t>    Also there is no scientific evidence that the reason apos;global warmingapos; is happening because of man.</t>
+    <h>Is Climate Change A Myth?</h>
+  </pair>
+  <pair id="182" entailment="NONENTAILMENT" task="IE">
+<t>    No rebuttal provided.</t>
+    <h>Is Climate Change A Myth?</h>
+  </pair>
+  <pair id="183" entailment="NONENTAILMENT" task="IE">
+<t>    No rebuttal offered.</t>
+    <h>Is Climate Change A Myth?</h>
+  </pair>
+  <pair id="184" entailment="NONENTAILMENT" task="IE">
+<t>    No rebuttal.</t>
+    <h>Is Climate Change A Myth?</h>
+  </pair>
+  <pair id="185" entailment="ENTAILMENT" task="IE">
+<t>    97 percent of climate scientists have confirmed that climate change is happening and that human activity is responsible.</t>
+    <h>The claim that "97% of scientists agree 'man made global warming' exists" is a lie.</h>
+  </pair>
+  <pair id="186" entailment="NONENTAILMENT" task="IE">
+<t>    You claim that the 97% of scientists absolutely do not side with the notion that global warming is man-made.</t>
+    <h>The claim that "97% of scientists agree 'man made global warming' exists" is a lie.</h>
+  </pair>
+  <pair id="187" entailment="ENTAILMENT" task="IE">
+<t>    As I stated before, and as you mentioned the primary source of this claim is cited from quot;Cook et al.</t>
+    <h>The claim that "97% of scientists agree 'man made global warming' exists" is a lie.</h>
+  </pair>
+  <pair id="188" entailment="ENTAILMENT" task="IE">
+<t>     --------------------------------Further, I wanted to include some peer-review against cookapos;s paper.Climate Consensus and apos;Misinformationapos;: A Rejoinder to Agnotology, Scientific Consensus, and the Teaching and Learning of Climate Change (PDF) [Archive](Science amp; Education, pp.</t>
+    <h>The claim that "97% of scientists agree 'man made global warming' exists" is a lie.</h>
+  </pair>
+  <pair id="189" entailment="NONENTAILMENT" task="IE">
+<t>    The point to be addressed is that the FAO report, while the full report is seemingly not accessible, parts of it are, includes many sources of data potentially unrelated to to factory farming, such as deforestation and cropping.</t>
+    <h>Factory Farming is the #1 cause of man-made global climate change</h>
+  </pair>
+  <pair id="190" entailment="NONENTAILMENT" task="IE">
+<t>    However, the majority of agricultural problems arising are not simply from apos;factory farmingapos;.</t>
+    <h>Factory Farming is the #1 cause of man-made global climate change</h>
+  </pair>
+  <pair id="191" entailment="ENTAILMENT" task="IE">
+<t>     quot;According to a 2006 report by the Food and Agriculture Organization of the United Nations (FAO), animal agriculture is responsible for 18 percent of all human-induced greenhouse gas emissions, including 37 percent of methane emissions and 65 percent of nitrous oxide emissions.quot; Should Factory-Farmed Foods Be Labeled.</t>
+    <h>Factory Farming is the #1 cause of man-made global climate change</h>
+  </pair>
+  <pair id="192" entailment="NONENTAILMENT" task="IE">
+<t>    I will be representing the Con side, meaning that I will be debating that Factory Farming is not the number 1 cause of man made climate change.</t>
+    <h>Factory Farming is the #1 cause of man-made global climate change</h>
+  </pair>
+  <pair id="193" entailment="ENTAILMENT" task="IE">
+<t>     quot;This was that the sources of apos;Cowspiracyapos;, mainly the FAO report, as well as basically all sources of the apos;reportapos;, cannot be trusted as they are, in no way, academic or trustworthy.</t>
+    <h>Factory Farming is the #1 cause of man-made global climate change</h>
+  </pair>
+  <pair id="194" entailment="ENTAILMENT" task="IE">
+<t>    I pro will argue that factory farming is the #1 cause of man-made global climate change.</t>
+    <h>Factory Farming is the #1 cause of man-made global climate change</h>
+  </pair>
+  <pair id="195" entailment="ENTAILMENT" task="IE">
+<t>    Look at figure 5 in source 1.</t>
+    <h>Is Climate Change Caused by Humans?</h>
+  </pair>
+  <pair id="196" entailment="ENTAILMENT" task="IE">
+<t>    Neither the question nor I ever said humans were quot;THE causequot; of climate change, but they are far and away the most destructive and sudden cause.</t>
+    <h>Is Climate Change Caused by Humans?</h>
+  </pair>
+  <pair id="197" entailment="NONENTAILMENT" task="IE">
+<t>    Climate: the average course or condition of the weather at a place usually over a period of years as exhibited by temperature, wind velocity, and precipitationHumans do indeed play a role in climate change, but they do not explicitly apos;causeapos; climate change.</t>
+    <h>Is Climate Change Caused by Humans?</h>
+  </pair>
+  <pair id="198" entailment="NONENTAILMENT" task="IE">
+<t>    While your arguments are certainly convincing, they still in no way prove that humans are the direct cause of climate change.</t>
+    <h>Is Climate Change Caused by Humans?</h>
+  </pair>
+  <pair id="199" entailment="NONENTAILMENT" task="IE">
+<t>    And the entire earth is not warming.</t>
+    <h>Is Climate Change Caused by Humans?</h>
+  </pair>
+  <pair id="200" entailment="ENTAILMENT" task="IE">
+<t>    Humans do cause climate change.</t>
+    <h>Is Climate Change Caused by Humans?</h>
+  </pair>
+  <pair id="201" entailment="ENTAILMENT" task="IE">
+<t>    This is a debate about whether or not global warming is real.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="202" entailment="ENTAILMENT" task="IE">
+<t>    I would define apos;realapos; as what the people think that say apos;global warmingapos; is apos;realapos; think.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="203" entailment="ENTAILMENT" task="IE">
+<t>    My opponent says, quot;Some of the new science on this tells us that instead of a 4.8 degree temperature increase by 2100 as a worst case scenario, the worst case is 1.8 degrees by 2100, which means itapos;s within our ability to deal with it without doing anything much.quot; Please note that I am not arguing about whether global warming will rapidly increase in the future.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="204" entailment="ENTAILMENT" task="IE">
+<t>    My opponent says that global warming is real, but quot;a lot slower than the models predictedquot;.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="205" entailment="NONENTAILMENT" task="IE">
+<t>    There is absolutely no way to know what effect, if any, global temperature increase has on any particular weather event or weather trend.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="206" entailment="NONENTAILMENT" task="IE">
+<t>    I would define quot;realquot; as what the people think that say quot;global warmingquot; is quot;realquot; think.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="207" entailment="ENTAILMENT" task="IE">
+<t>    My opponent has even admitted that quot;the world is warming upquot;, and has called me quot;slipperyquot;.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="208" entailment="NONENTAILMENT" task="IE">
+<t>    Thatapos;s real.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="209" entailment="NONENTAILMENT" task="IE">
+<t>    Some of the new science on this tells us that instead of a 4.8 degree temperature increase by 2100 as a worst case scenario, the worst case is 1.8 degrees by 2100, which means itapos;s within our ability to deal with it without doing anything much.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="210" entailment="NONENTAILMENT" task="IE">
+<t>    Hereapos;s a definition of something real:  --- firequot;crackquot;er G2;fī(ə)rG6;krakər/ noun a loud, explosive firework, typically wrapped in paper and lit with a fuse.</t>
+    <h>Global warming is real</h>
+  </pair>
+  <pair id="211" entailment="ENTAILMENT" task="IE">
+<t>    Iapos;ll start eating some bacon now .</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="212" entailment="ENTAILMENT" task="IE">
+<t>    Bacon God Pork is the most widely eaten meat in the world accounting for over 36% of the world meat intake.http://tinyurl.com...The Bacon God is not unhappy.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="213" entailment="NONENTAILMENT" task="IE">
+<t>    Because the Bacon God says so.)     Donapos;t believe me.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="214" entailment="NONENTAILMENT" task="IE">
+<t>    Global warming shouldnapos;t be legalized.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="215" entailment="NONENTAILMENT" task="IE">
+<t>    I will be arguing that global warming doesnapos;t exist, and Pro will be arguing that it does.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="216" entailment="ENTAILMENT" task="IE">
+<t>    I accept.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="217" entailment="NONENTAILMENT" task="IE">
+<t>    Round 4 of 5It is important to check your grammar and spelling, otherwise you may be penalized by the voters.I DONapos;T CARE DEBATE.ORG, SHUT UP!!!!!!!!Wait a minute.....https://encrypted-tbn2.gstatic.com...Debate.org rymes with debate.pork.THEREFORE, DEBATE.ORG IS THE OFFICAL DOMAIN OF THE BACON GOD!!!!Since this is true, I have just taken over this website, because I am the Bacon Godapos;s waifu.http://www.google.com...And if I can take over this website, I can take over any website.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="218" entailment="ENTAILMENT" task="IE">
+<t>    Wait.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="219" entailment="NONENTAILMENT" task="IE">
+<t>    arGumentz: Gobal warming iz false becuz I dont liek da booty b0ss.</t>
+    <h>Who can create the worst argument: Global warming</h>
+  </pair>
+  <pair id="221" entailment="ENTAILMENT" task="IE">
+<t>    I will add in definitions to prevent semantics arguments from arising.DEFINITIONS Human activity: Activity associated with or caused by humans.Global Warming: The state of which the Earthapos;s temperature progressively and abnormally rises, which is attributed to the Greenhouse Effect that is caused by increased levels of carbon dioxide, other greenhouse gases, and pollutants in general.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="222" entailment="NONENTAILMENT" task="IE">
+<t>    I will enumerate more of my opponents graphs.Figure 12: Global Glacier Cumulative Volume ChangesFigure 13: Proportions of growing and shrinking glaciers in 2009Figure 14: Sea Levels since 1870Figure 15: US Stations reporting continuously from 1900 to 2000Figure 16: Feedbacks vs Forcings GraphPart 6: Contradictory Glacial, Sea Level, and Temperature DataFigure 12 is interesting not because it counters any of my argument, but because it puts my opponents temperature, and sea level data in contradiction with it.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="223" entailment="NONENTAILMENT" task="IE">
+<t>    However it is important that I enumerate his graphs.Figure 1: Atmospheric CO2 for 650,000 yearsFigure 2: Global Land-Ocean Temperature IndexFigure 3: Greenhouse ExplanationFigure 4: Average Monthly Arctic Sea Ice August 1979 to 2013Figure 5: Sea Level ChangePart 1: DoubtItapos;s telling that my opponent makes the claim that it is irrefutable, and then uses Figure 2.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="224" entailment="ENTAILMENT" task="IE">
+<t>    Thanks to my opponent, itapos;s been fun.I will respond to the points my opponent has made in this round, and clarify my case.But first of all, I am sure that I hadnapos;t ignored a piece of my opponentapos;s case.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="225" entailment="NONENTAILMENT" task="IE">
+<t>    Itapos;s unfortunate that my opponent decided to write up his response to the contradiction in his data so rashly.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="226" entailment="ENTAILMENT" task="IE">
+<t>     ==Contention 2: The cause and effect of the Greenhouse Effect and what makes it more powerful==  The greenhouse effect on Planet Earth has been occurring for almost its whole life and is a natural phenomenon, since greenhouse gases such as Co2 have existed on Earth from its birth, thus heating the Earth to help sustain forms of life [6]:  quot;To its credit, the greenhouse effect has been around long before humans began to burn fossil fuels, and it is a natural phenomenon in that makes life habitable for all living things.quot; [6]  The greenhouse effect operates when the sunapos;s heat passes through Earthapos;s atmosphere, heats the Earthapos;s surface and is reflected back upward.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="227" entailment="ENTAILMENT" task="IE">
+<t>    Thanks to my opponent.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="228" entailment="ENTAILMENT" task="IE">
+<t>    Thanks to my opponent for such a great debate!Counter-rebuttals==Counter 1: Contradiction?==My opponent asserts that my glacial, sea level and temperature figures are contradictory.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="229" entailment="NONENTAILMENT" task="IE">
+<t>    If you wish to debate any statistic, or figure you might want to consider reading the book in full.As women get older they toe out more as they walk.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="230" entailment="NONENTAILMENT" task="IE">
+<t>    I accept.</t>
+    <h>Resolved: Human Activity Is a Significant Factor in Global Warming on Planet Earth.</h>
+  </pair>
+  <pair id="231" entailment="NONENTAILMENT" task="IE">
+<t>    We may observe that humans release approximately 35 gigatons of CO2 a year.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="232" entailment="ENTAILMENT" task="IE">
+<t>    All scientists agree that CO2 has some direct effect, increasing temperature by 1.1 degrees Celsius per doubling of CO2 concentration in the atmosphere.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="233" entailment="ENTAILMENT" task="IE">
+<t>    In my Round 2 argument, I mistakenly wrote, quot;I have now established that [human activity] is responsible for much more that 57% of global warming, somewhere around 75%.quot; I meant to write 65%, which is the actual number.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="234" entailment="ENTAILMENT" task="IE">
+<t>    PrefaceThis is the Final debate of the Official May Regular Tournament [http://www.debate.org...] on solely highly controversial topics, hosted by Unitomic.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="235" entailment="NONENTAILMENT" task="IE">
+<t>    I accept this challenge.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="236" entailment="ENTAILMENT" task="IE">
+<t>    Extend.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="237" entailment="ENTAILMENT" task="IE">
+<t>    I hope my opponent is completely alright and happy, and is doing well.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="238" entailment="NONENTAILMENT" task="IE">
+<t>     Thank you and please vote Pro.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="239" entailment="NONENTAILMENT" task="IE">
+<t>    Forfeiture.</t>
+    <h>Official May Tournament Final: Global Warming</h>
+  </pair>
+  <pair id="240" entailment="ENTAILMENT" task="IE">
+<t>    The Evaporation data is small enough to analyse in excel, but precipitation data would require a database or custom tools to work with.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="241" entailment="ENTAILMENT" task="IE">
+<t>    Global Warming has not accelerated the Water Cycle in the last 115 yearsResolution:Global Warming has not accelerated the Water Cycle in the last 115 years.DefinitionsGlobal Warming - A process of climate change frequently associated with the warming of the environment due to man made pollution.115 Years - For statistical limitations to be 1900 to 2014 and early 2015Accelerating the water cycle - A sustained increase in water evaporation, or precipitation beyond the first 30 years of the 115 year range, or 1900 to 1930.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="242" entailment="ENTAILMENT" task="IE">
+<t>    Unfortunately my opponent has decided to go with only a contradiction, and not actually an argument.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="243" entailment="ENTAILMENT" task="IE">
+<t>    It looks like my opponent isnapos;t even active anymore.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="244" entailment="NONENTAILMENT" task="IE">
+<t>    Logicgt;Evidence  Evidence----gt;Failure  Failure----gt;You lose  I win.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="245" entailment="NONENTAILMENT" task="IE">
+<t>    Thatapos;s not true.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="246" entailment="NONENTAILMENT" task="IE">
+<t>    Yes it has, Penguin.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="247" entailment="ENTAILMENT" task="IE">
+<t>    Resolution:Global Warming has not accelerated the Water Cycle in the last 115 years.DefinitionsGlobal Warming - A process of climate change frequently associated with the warming of the environment due to man made pollution.115 Years - For statistical limitations to be 1900 to 2014 and early 2015Accelerating the water cycle - A sustained increase in water evaporation, or precipitation beyond the first 30 years of the 115 year range, or 1900 to 1930.Rules:Round 1: Acceptance, and DefinitionsRound 2: Presenting all argument, Cons ResponseRound 3: Defense, Cons ReponseRound 4: Closing statments.BOP: Pro unless Con presents an argument then SharedThis will be a repeat of http://www.debate.org.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="248" entailment="NONENTAILMENT" task="IE">
+<t>    Global warming is bad.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="249" entailment="ENTAILMENT" task="IE">
+<t>    The Evaporation data is small enough to analyse in excel, but precipitation data would require a database or custom tools to work with.Analysis Method:In order to estimate precipitation, and evaporation levels I will be utilizing the NOAA GHCND weather station dataset.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="250" entailment="ENTAILMENT" task="IE">
+<t>    My opponent appears to be under the mistaken impression that Iapos;ve plagiarized my argument, and my chart data.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="251" entailment="NONENTAILMENT" task="IE">
+<t>    Youapos;re a programmer.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="252" entailment="ENTAILMENT" task="IE">
+<t>     My opponent makes the claim that global warming is bad, and should be stopped.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="253" entailment="NONENTAILMENT" task="IE">
+<t>    I still think that global worming is bad, and should be stopped.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="254" entailment="ENTAILMENT" task="IE">
+<t>    Unfortunately, the actual study is hidden behind a nice pay wall, but the abstract can be read here.http://link.springer.com...It is also cross references another study at the American Meteorological Society[17], and the PDF can be viewed here.http://envsci.rutgers.edu...The first problem with all studies of extreme precipitation events can be summarized by quoting a part of the 2nd page on the study above.These and other studies, which all differ in their methods of analysis, definition of extreme precipitation indices, and/or the observational datasets used, consistently report increases in extreme precipitation in more land locations globally than locations with decreases.In other words the definition of ‘extreme precipitation’ is a cherry picked definition, and all of these are only of ‘extreme’ events, and not a sum, average, or median of the precipitation.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="255" entailment="ENTAILMENT" task="IE">
+<t>    The Evaporation data is small enough to analyse in excel, but precipitation data would require a database or custom tools to work with.Analysis Method:In order to estimate precipitation, and evaporation levels I will be utilizing the NOAA GHCND weather station dataset.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="256" entailment="NONENTAILMENT" task="IE">
+<t>    I would like to thank medv4380 for presenting his arguments.The Water CycleI want to start by providing a brief description of the water cycle, and what it means to accelerate the water cycle.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="257" entailment="ENTAILMENT" task="IE">
+<t>    I’d like to thank my opponent for his response.Unfortunately my opponent hasn’t fully grasped my main argument.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="258" entailment="NONENTAILMENT" task="IE">
+<t>    I would like to thank medv4380 for presenting his rebuttals.If Iapos;m reading my opponentapos;s argument correctly, he seems to be arguing that solar activity is the cause of the evaporation increase, saying that the reduction in solar activity causes the Earthapos;s magnetic field to weaken, causing more radiation to reach Earth.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="259" entailment="NONENTAILMENT" task="IE">
+<t>    quot;On average, land-use change has increased global runoff by 0.08 mm/year^2 and accounts for ~50% of the reconstructed global runoff trend over the last century.quot; Thereapos;s still the other half that needs to be accounted for.[1]Two, CO2 also has a negative effect on river runoff.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="260" entailment="ENTAILMENT" task="IE">
+<t>    Con will decide if R2 will have an Argument or Rebuttal in R1 Round 2: Presenting all arguments (no rebuttals if con presents an argument otherwise con may rebut) Round 3: Refutation of opponentapos;s arguments (no new arguments) Round 4: Defending your original arguments and conclusion (no new arguments)  BOP: Pro unless Con presents an argument then Shared.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="261" entailment="NONENTAILMENT" task="IE">
+<t>    Thank you for challenging me to this debate.</t>
+    <h>Global Warming has not accelerated the Water Cycle in the last 115 years</h>
+  </pair>
+  <pair id="262" entailment="ENTAILMENT" task="IE">
+<t>    ==Nuclear energy==My second point involves Nuclear energy, which was created because of the weapons like the A-Bomb.</t>
+    <h>Resolved: Nuclear Weapons have Helped our Society.</h>
+  </pair>
+  <pair id="263" entailment="NONENTAILMENT" task="IE">
+<t>      C1: Nuclear Weapons seriously threaten the human race   Nuclear weapons are so far one of the only weapons mankind has developed that could end the human race as we know it, and in fact, almost did more than once.</t>
+    <h>Resolved: Nuclear Weapons have Helped our Society.</h>
+  </pair>
+  <pair id="264" entailment="NONENTAILMENT" task="IE">
+<t>      Pro depends not on the main focus of this debate, that is, nuclear weapons, but rather nuclear power/energy.</t>
+    <h>Resolved: Nuclear Weapons have Helped our Society.</h>
+  </pair>
+  <pair id="265" entailment="ENTAILMENT" task="IE">
+<t>    Resolved: Nuclear weapons have helped our society.-First round: Acceptence-Second round: Affirmitive Construction-Third round: Rebuttal-Fourth round: Closing Arguments.</t>
+    <h>Resolved: Nuclear Weapons have Helped our Society.</h>
+  </pair>
+  <pair id="266" entailment="NONENTAILMENT" task="IE">
+<t>    Forfeit - Points continue.</t>
+    <h>Resolved: Nuclear Weapons have Helped our Society.</h>
+  </pair>
+  <pair id="267" entailment="NONENTAILMENT" task="IE">
+<t>    I accept the debate.</t>
+    <h>Resolved: Nuclear Weapons have Helped our Society.</h>
+  </pair>
+  <pair id="268" entailment="ENTAILMENT" task="IE">
+<t>    Now little about myself Iapos;m a moderate Republican/independent living in a medium-size town of Joplin Missouri Iapos;m here to change America to the right direction that we need or else we will never seen it again letapos;s make America stronger.</t>
+    <h>Presidential debate 2015</h>
+  </pair>
+  <pair id="269" entailment="ENTAILMENT" task="IE">
+<t>    This will be a presidential debate format over a variety of issues  Issues: Healthcare Jobs/economy Environment Abortion Gay marriage Foreign Policy  We will debate on our views and differences  R1-Acceptance R2-Opening statements/views/arguements R3-Rebuttals/Arguements R4-Closing statements and final rebuttals.</t>
+    <h>Presidential debate 2015</h>
+  </pair>
+  <pair id="270" entailment="ENTAILMENT" task="IE">
+<t>    My opponent has accepted this presidential debate but he decided to forfeit it.</t>
+    <h>Presidential debate 2015</h>
+  </pair>
+  <pair id="271" entailment="NONENTAILMENT" task="IE">
+<t>    Rand paul.</t>
+    <h>Presidential debate 2015</h>
+  </pair>
+  <pair id="272" entailment="ENTAILMENT" task="IE">
+<t>    As debate over the Trans-Pacific Partnership heats up, questions about the benefits and drawbacks of free trade are being raised by people from all sides of the political spectrum.This debate will not be a defense of the TPP, as I do not know the full details of the bill.</t>
+    <h>Free Trade Benefits the United States</h>
+  </pair>
+  <pair id="273" entailment="NONENTAILMENT" task="IE">
+<t>    I accept.</t>
+    <h>Free Trade Benefits the United States</h>
+  </pair>
+  <pair id="274" entailment="NONENTAILMENT" task="IE">
+<t>    They donapos;t help.The first source quot;estimatesquot; that a 1% increase in sulfur dioxide output from free trade leads to a decrease in sulfur dioxide concentration of around .8%.</t>
+    <h>Free Trade Benefits the United States</h>
+  </pair>
+  <pair id="275" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;ll start with my arguments and then do a rebuttal.Free trade poses an existential threat to human survival97% of climate scientists agree that humans are causing global warming.</t>
+    <h>Free Trade Benefits the United States</h>
+  </pair>
+  <pair id="276" entailment="ENTAILMENT" task="IE">
+<t>      Free Trade is Beneficial to the Environment  quot;Free trade is incompatible with reducing emissions, slowing climate warming, and saving our planet.</t>
+    <h>Free Trade Benefits the United States</h>
+  </pair>
+  <pair id="277" entailment="ENTAILMENT" task="IE">
+<t>    Free Trade Increases Innovation and Efficiency The first reason one should support free trade is because open trade with other countries leads to maximized innovation and efficiency in the economy.</t>
+    <h>Free Trade Benefits the United States</h>
+  </pair>
+  <pair id="278" entailment="NONENTAILMENT" task="IE">
+<t>    Vote Con.</t>
+    <h>Free Trade Benefits the United States</h>
+  </pair>
+  <pair id="279" entailment="ENTAILMENT" task="IE">
+<t>    Giving the monei to bethesda to develop fallout 4 more developlly will be better use of charity money.</t>
+    <h>We should stop giving money to charity and give it to bethesda for more fallout 4 content</h>
+  </pair>
+  <pair id="280" entailment="NONENTAILMENT" task="IE">
+<t>    He states that because of help from other countries, quot;by 2035, there will be almost no poor countries left in the world.quot; [1.</t>
+    <h>We should stop giving money to charity and give it to bethesda for more fallout 4 content</h>
+  </pair>
+  <pair id="281" entailment="ENTAILMENT" task="IE">
+<t>    (Look bro aint nothing wrong with dressin up like a pony and gettin f*cked all haters are just jelous they not gettin f*cked)  Im sick and tired of people giving their quot;Moneyquot; to charities that quot;Helpquot; quot; childrenquot; and try to fund quot;cancerquot; research.</t>
+    <h>We should stop giving money to charity and give it to bethesda for more fallout 4 content</h>
+  </pair>
+  <pair id="282" entailment="NONENTAILMENT" task="IE">
+<t>    The BoP is on Pro to show that money normally going to charity should go to a video game.</t>
+    <h>We should stop giving money to charity and give it to bethesda for more fallout 4 content</h>
+  </pair>
+  <pair id="283" entailment="NONENTAILMENT" task="IE">
+<t>    Vote Con.</t>
+    <h>We should stop giving money to charity and give it to bethesda for more fallout 4 content</h>
+  </pair>
+  <pair id="284" entailment="NONENTAILMENT" task="IE">
+<t>    Extend.</t>
+    <h>We should stop giving money to charity and give it to bethesda for more fallout 4 content</h>
+  </pair>
+  <pair id="285" entailment="ENTAILMENT" task="IE">
+<t>    This small linear increase of forcing, by itself, would have caused a modest global warming through the Cenozoic Era.quot; The CO2 levels caused a much higher forcing.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="286" entailment="ENTAILMENT" task="IE">
+<t>    The 0.7 factor comes from the fact that the Earth reflects about 30% of the solar radiation it receives, and the 1/4 factor comes from spherical geometry.Changes in temperature are proportional to the energy imbalance.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="287" entailment="NONENTAILMENT" task="IE">
+<t>    My argument is, ~ Humans and natural cycles is why we have Climate Change ~Each year through our generation of electricity through coal [4], our consumption of petrol and oil and exhaust of our transportation [3], our destruction of natural filters such as plant life, phytoplankton [1] and bodies of water [2] have made our world a slightly different place that will radically change in the near future.The science behind the principle of Climate Change is what we want to know.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="288" entailment="ENTAILMENT" task="IE">
+<t>    We will not be arguing if global warming exists or not, it will be assumed that it does; only if global warming has an anthropogenic cause.BoP is shared.DefinitionsMankind: quot;The human race; human beings collectively without reference to sex; humankind.quot;[1]Main: quot;Chief in size, extent, or importance; principal; leading;quot;[2]Cause: quot;A person or thing that acts, happens, or exists in such a way that some specific thing happens as a result; the producer of an effect.quot;[3]Global Warming: quot;Global warming is the rise in the average temperature of Earthapos;s atmosphere and oceans since the late 19th century, and its projected continuation.quot;[4]Rules1.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="289" entailment="NONENTAILMENT" task="IE">
+<t>    To be honest, I thought it would be a fun thing to debate someone on something controversial and funny.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="290" entailment="NONENTAILMENT" task="IE">
+<t>    I accept this debate.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="291" entailment="ENTAILMENT" task="IE">
+<t>    Well, then, I thank my opponent for presenting the arguments he did.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="292" entailment="NONENTAILMENT" task="IE">
+<t>    Extend.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="293" entailment="NONENTAILMENT" task="IE">
+<t>    The debate right now is about climate change, which since it has been undefined, I define as quot;a long-term change in the earthapos;s climate, especially a change due to an increase in the average atmospheric temperature:quot; (dictionary.com).</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="294" entailment="ENTAILMENT" task="IE">
+<t>    Everyone agrees that CO2 has some direct effect, at least 1 degree C per doubling of CO2 concentration.</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="295" entailment="ENTAILMENT" task="IE">
+<t>    Paleoclimatology does have an application in this debate: whether or not CO2 causes (or doesn’t cause) past climate changes is important.</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="296" entailment="ENTAILMENT" task="IE">
+<t>     To clarify quot;on balancequot;, I am not arguing that climate change is entirely man made.</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="297" entailment="ENTAILMENT" task="IE">
+<t>     - I refuted paleoclimate, showing that past records actually support AGW and that he misrepresented his sources gt; showed today was abnormally warm for this recent interglacial cycle gt; kingapos;s graph shows correlation  - his whole argument is a semantical ploy on origin and climate change.</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="298" entailment="NONENTAILMENT" task="IE">
+<t>    This debate is not whether modern climate change is due to humans.</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="299" entailment="NONENTAILMENT" task="IE">
+<t>    I am negating this.Note: this is not semantics,as these are the common understandings of the topic.To claim that changes in the climate from over 4000 years ago is caused by humans is quite ridiculous.Climate change has been happening for millions of years.</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="300" entailment="NONENTAILMENT" task="IE">
+<t>    quot;I actually support ...the Spanish inquisition, the murder of natives and so much more.quot; airmax1227  Acceptance.</t>
+    <h>Resolved: Climate change is, on balance, anthropogenic in origin</h>
+  </pair>
+  <pair id="301" entailment="NONENTAILMENT" task="IE">
+<t>    I am very excited to have this debate, and I hope it goes well.This debate assumes that climate change has happened over the past centuries, and that over that period of time there has been a overall increase in global temperatures.</t>
+    <h>Is Anthropogenic Global Warming Real?</h>
+  </pair>
+  <pair id="302" entailment="NONENTAILMENT" task="IE">
+<t>    This is my first debate and I would like to make it a good one, so I am starting with global warming.</t>
+    <h>Is Anthropogenic Global Warming Real?</h>
+  </pair>
+  <pair id="303" entailment="ENTAILMENT" task="IE">
+<t>    I will take the position that anthropogenic global warming is real and is caused by human activities.</t>
+    <h>Is Anthropogenic Global Warming Real?</h>
+  </pair>
+  <pair id="304" entailment="NONENTAILMENT" task="IE">
+<t>    I have nothing to refute, so please send some votes my way.</t>
+    <h>Is Anthropogenic Global Warming Real?</h>
+  </pair>
+  <pair id="305" entailment="ENTAILMENT" task="IE">
+<t>      C1) Climate Sensitivity amp; Feedbacks  My first contention is to demonstrate CO2 has effects in rising the mean land-sea temperature.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="306" entailment="ENTAILMENT" task="IE">
+<t>    We will not be arguing if global warming exists or not, it will be assumed that it does; only if global warming has an anthropogenic cause.BoP is shared.DefinitionsMankind: quot;The human race; human beings collectively without reference to sex; humankind.quot; [1]Main: quot;Chief in size, extent, or importance; principal; leading.quot; [2]Cause: quot;A person or thing that acts, happens, or exists in such a way that some specific thing happens as a result; the producer of an effect.quot; [3]Global Warming: quot;Global warming is the rise in the average temperature of Earthapos;s atmosphere and oceans since the late 19th century, and its projected continuation.quot; [4]Rules1.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="307" entailment="NONENTAILMENT" task="IE">
+<t>    I gladly accept this debate with my friend and I look forward to a great debate :).</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="308" entailment="NONENTAILMENT" task="IE">
+<t>    Now to post arguments:  How did global warming discussions end up hinging on whatapos;s happening with polar bears, unverifiable predictions of what will happen in a hundred years, and whether people are quot;climate deniersquot; or quot;global warming cultists?quot; If this is a scientific topic, why arenapos;t we spending more time discussing the science involved.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="309" entailment="ENTAILMENT" task="IE">
+<t>       R2) Scientific Consensus  A study published in Science reviewed the ISI web of science in order to take a survey of relevant climate literature as to what the causes of climate change are.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="310" entailment="NONENTAILMENT" task="IE">
+<t>    • Deserts get drier leaving to increased desertification.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="311" entailment="ENTAILMENT" task="IE">
+<t>    Rebuttal  My opponent has presented arguments completely irrelevant to the resolution, merely presenting *disadvantages* of global warming as opposed to actually creating a case that global warming is NOT caused by mankind.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="312" entailment="NONENTAILMENT" task="IE">
+<t>    I thank you for this debate, however I have had a rough go of it.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="313" entailment="NONENTAILMENT" task="IE">
+<t>    Now, there is a good deal of evidence that humans are not causing global warming at all.</t>
+    <h>is global warming an issue?</h>
+  </pair>
+  <pair id="314" entailment="NONENTAILMENT" task="IE">
+<t>    I do believe that global warming exists, and I must correct you: my argument was not that global warming will have no repercussions on the environment at all.</t>
+    <h>is global warming an issue?</h>
+  </pair>
+  <pair id="315" entailment="NONENTAILMENT" task="IE">
+<t>    What melting-ice-caps activists fail to realize is that most of Antarcticaapos;s ice is already underwater.</t>
+    <h>is global warming an issue?</h>
+  </pair>
+  <pair id="316" entailment="ENTAILMENT" task="IE">
+<t>    finale round exciting so as your explaining very well detailed in your counter arguments your are basically saying that there is no issue in global warming WHAT SO EVER and i guess it is how you see it really but on my part here i truly think we have a problem even if we are the main cause or not global warming will continue happening and the numbers can reduce or most likely increase so we need to find ways to help with this because global warming will nit go away and if our government should help with things like global warming rather than spending all our money on nuclear bombs us humans will be the cause of earth to end so we should feel obligated to help preserve plant earth for as long as possible.</t>
+    <h>is global warming an issue?</h>
+  </pair>
+  <pair id="317" entailment="ENTAILMENT" task="IE">
+<t>    Even so global warming is still a big issue yes the earth has hot and cold periods but they may get worse and worse each time until eventually a whole species or country is wiped out by habitat loss or water levels rising but other issues that may be included are that scintist say that warmer climate can be a quot;disease vectorquot; which can then cause our health to be poorer also with the increaed warmth it can cause other places to go into drought like california for example but how soon will you think for another state to go into a major drought and finaily the warmer air can cause air polution to increase, Higher air temperatures increase smog.</t>
+    <h>is global warming an issue?</h>
+  </pair>
+  <pair id="318" entailment="ENTAILMENT" task="IE">
+<t>    i think that global warming is an issue that we as people should act upon global warming has increased by a large amount and us being a main cause of it should find a way to figure a way to decrease the amount.</t>
+    <h>is global warming an issue?</h>
+  </pair>
+  <pair id="319" entailment="NONENTAILMENT" task="IE">
+<t>    Yes I agree that the Earths temperature is rising, that is no secret.I just do not belive that global warming is the reason why.My six propositions of alternate climate change are,The bio-thermostat theorem- that the co2 being placed in the atmosphere is causing natural changes in the output/input of carbon dioxide in plants and animals such as algea, also another possible theorem to add to this is the increasing birth rate of cows, who can produce enought carbon dioxide and methane to fill up a jar the size of Rhode island, source, animals.howstuffworks.com/cowscarbon.More alternate theories of climate change is the albedo and cloud fromation, this one is short, chnages in the formation of albedo clouds can create a negative feedbacks that cancel out all or nearly all of warming effect of higher level of co2.-humans forcing the greenhouse effect alternate to greenhouse gases, that the greatest influence on climate is the transformation of Earths surface, like the creating of deserts and the cutting of the rainforests.-ocean currents, natural changes in the Earths mantle is cause the current of the oceans to move at different speeds or chnage direction all together, the theory states how the natural process of algea is being adapted to the new formation of currents and is a prime factor in the realese of carbon dioxide in the atmosphere.-Planetary motion, natural gravitational and magnetic oscillations of the solar system induced by the planets movement through space can dribe climate change and naturaly effect the Earths magnetic field.-Solar variability - changes in the coronal ejections and magnetic fields of the sun causes changes in the cloud formation, ocean currents, and win that can cause climate change.This is just a note not a arguement: At first, people where afraid that the earth was going to be placed in another iceage because of Co2 not in a rising temperature.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="320" entailment="ENTAILMENT" task="IE">
+<t>    What does the sun have to do with CO2 and global warming.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="321" entailment="ENTAILMENT" task="IE">
+<t>    Is global warming real.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="322" entailment="NONENTAILMENT" task="IE">
+<t>    Hello I am debating that global warming is not real, but I am not denying the Earthapos;s temperature is increasing  my points  -the sun goes through natural cycles  -global warming is a misconception  -Polar icecaps melting are a result of the first theory i am going to bring up (next round).</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="323" entailment="NONENTAILMENT" task="IE">
+<t>    You first made the point about how I implied carbon dioxide is placed in the atmosphere by humans.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="324" entailment="ENTAILMENT" task="IE">
+<t>    that 1 kilogram of meat is responsible for the amount of carbon in the atmosphere as a car driving 250 kilometers.quot;  I hate to break it to you, but the reason why cows arenapos;t usually mentioned in global warming studies is because the cow problem.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="325" entailment="ENTAILMENT" task="IE">
+<t>    You said yourself, quot;that the co2 being placed in the atmosphere is causing natural changesquot;.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="326" entailment="ENTAILMENT" task="IE">
+<t>    Extend all arguments.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="327" entailment="NONENTAILMENT" task="IE">
+<t>    Climate change belongs to the natural circle, global warming doesn't.</t>
+    <h>Global Warming Is A Natural Cycle.</h>
+  </pair>
+  <pair id="328" entailment="ENTAILMENT" task="IE">
+<t>    A significant tip of the hat to Con for their respect and generosity.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="329" entailment="NONENTAILMENT" task="IE">
+<t>     It should not need stating but we have much more accurate statistics about actual suicides than about attempts.2.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="330" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;ll start by thanking Pro for an intelligent and thought-provoking debate.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="331" entailment="NONENTAILMENT" task="IE">
+<t>     I could have started by citing some very strong statistics that link religiosity with murder rates all over the World.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="332" entailment="ENTAILMENT" task="IE">
+<t>    Once again, my apologies for my prior forfeit.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="333" entailment="ENTAILMENT" task="IE">
+<t>    I freely admit that my sources for Round 1 are less than ideal.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="334" entailment="ENTAILMENT" task="IE">
+<t>    Are more likely to help the disadvantaged [7]I think thatapos;s enough to start things off with.Sources:[1] http://www.adherents.com...[2] http://munews.missouri.edu...[3] http://www.telegraph.co.uk...[4] http://www.webmd.com...[5] http://www.gallup.com...[6] http://www.orthodoxytoday.org...[7] http://www.familyfacts.org.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="335" entailment="NONENTAILMENT" task="IE">
+<t>    itapos;s not that I havenapos;t a lot to say, but it will probably benefit the gentle readers (and me) that I am forced to be concise in my final round.</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="336" entailment="NONENTAILMENT" task="IE">
+<t>    Pro will accept the burden of proof to show that religion makes the World a better place.Iapos;m assuming that weapos;re going to hear about charitable donations, better moral compasses and so on and so forth.Iapos;ll be ready :-).</t>
+    <h>Religion makes the World a better place</h>
+  </pair>
+  <pair id="337" entailment="NONENTAILMENT" task="IE">
+<t>    - Beside the utter lack of sources amp; support for his arguments, Pro has yet to argue for the eradication of poverty, as affirmed in his resolution.</t>
+    <h>Poverty can and should be eradicated</h>
+  </pair>
+  <pair id="338" entailment="NONENTAILMENT" task="IE">
+<t>    There is a relatively small number left to help (in some countries) making it more manageable- Pro’s proposition here is invalid, for:1.</t>
+    <h>Poverty can and should be eradicated</h>
+  </pair>
+  <pair id="339" entailment="ENTAILMENT" task="IE">
+<t>    I made the specific point that the fact we have reduced it puts us in a better position to be able to eradicate the remaining poverty.</t>
+    <h>Poverty can and should be eradicated</h>
+  </pair>
+  <pair id="340" entailment="ENTAILMENT" task="IE">
+<t>     We know that we can significantly reduce poverty because there are countries that have done it like Norway and Denmark.</t>
+    <h>Poverty can and should be eradicated</h>
+  </pair>
+  <pair id="341" entailment="ENTAILMENT" task="IE">
+<t>    I believe we can {and afford} to ensure the income of every adult is over the poverty line {be it through welfare payments or something else}.</t>
+    <h>Poverty can and should be eradicated</h>
+  </pair>
+  <pair id="342" entailment="NONENTAILMENT" task="IE">
+<t>    - Eradicate: to do away with as completely as if by pulling up by the roots [2].</t>
+    <h>Poverty can and should be eradicated</h>
+  </pair>
+  <pair id="343" entailment="NONENTAILMENT" task="IE">
+<t>    I give you the above graph measuring the past 600 million years of CO2 levels are we are actually at an all time low.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="344" entailment="ENTAILMENT" task="IE">
+<t>    quot;The last time carbon dioxide levels were apparently as high as they are today - and were sustained at those levels - global temperatures were 5 to 10 degrees Fahrenheit higher than they are today, the sea level was approximately 75 to 120 feet higher than today, there was no permanent sea ice cap in the Arctic and very little ice on Antarctica and Greenland.quot; Clearly, the levels that CO2 is reaching are unsustainable.[1]The reason the CO2 rise is considered high is because the CO2 level is the highest in around 50 million years.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="345" entailment="ENTAILMENT" task="IE">
+<t>    I would like to thank lannan13 for accepting this debate.Human-Emitted Greenhouse GasesIt is known that CO2 levels are increasing.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="346" entailment="ENTAILMENT" task="IE">
+<t>    We will not be arguing if global warming exists or not, it will be assumed that it does; only if global warming has an anthropogenic cause.BoP is shared.DefinitionsMankind: quot;The human race; human beings collectively without reference to sex; humankind.quot;[1]Main: quot;Chief in size, extent, or importance; principal; leading;quot;[2]Cause: quot;A person or thing that acts, happens, or exists in such a way that some specific thing happens as a result; the producer of an effect.quot;[3]Global Warming: quot;Global warming is the rise in the average temperature of Earthapos;s atmosphere and oceans since the late 19th century, and its projected continuation.quot;[4]Rules1.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="347" entailment="NONENTAILMENT" task="IE">
+<t>    I accept.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="348" entailment="ENTAILMENT" task="IE">
+<t>    16k, you, and I have now all changed to the pro-AGW side.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="349" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent has convinced me to his position, henceforth I can no longer argue my side.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="350" entailment="NONENTAILMENT" task="IE">
+<t>    Pass.</t>
+    <h>Mankind Is the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="351" entailment="ENTAILMENT" task="IE">
+<t>     Format R1: Acceptance R2: Constructive Case R3: Rebuttals R4: Rebuttals and Conclusion  *Edit* This debate was going to be for the beginners tourney, but we have changed topic.</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="352" entailment="ENTAILMENT" task="IE">
+<t>    He should seek alternative data that supports his contention that, even if one assumes the data is reliable, I have unequivocally refuted.[1] http://www.lavoisier.com.au...[2] http://www.ipcc.ch...[3] http://droyer.web.wesleyan.edu...(GCA).pdfR2: [sic] Earth is cooling.This is patently not true and in most instances of my opponents argument, a bare assertion.</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="353" entailment="NONENTAILMENT" task="IE">
+<t>    I give you the above graph measuring the past 600 million years of CO2 levels are we are actually at an all time low.</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="354" entailment="NONENTAILMENT" task="IE">
+<t>    (including CFCs)---0.047%We can see here that these percentages are indeed quite low and this was dropped by my opponent so I extend them across the board.</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="355" entailment="ENTAILMENT" task="IE">
+<t>    This will be evident within my scientific consensus contention.[1] http://www.jstor.org...[2] http://www.nature.com...[3] http://www.agu.org...[4] http://www.agu.org...[5] http://www.nature.com...[6] http://www.sciencemag.org...[7] http://www.nature.com...C2: Humans are the source of the vast majority of resultant carbon dioxideThis figure shows the estimated balance of carbon dioxide emissions.Despite man made carbon dioxide emissions being comparatively smaller than natural emissions, the real driving force of climate change is the net quantity of carbon dioxide released, since most natural carbon emissions are absorbed[1].</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="356" entailment="ENTAILMENT" task="IE">
+<t>    As Iapos;ve previously mentioned: apos;Because of this, atmospheric carbon dioxide is at the highest levels in approximately 15 to 20 million years[1].</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="357" entailment="NONENTAILMENT" task="IE">
+<t>    I accept and I would like to point out before the debate starts that in order for my opponent to win he must prove that Global Warming is Largely man-made, meaning that more than 50% is to be caused by humans.</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="358" entailment="NONENTAILMENT" task="IE">
+<t>     Give my opponent all 7 points.</t>
+    <h>Global Warming is Largely Man-Made</h>
+  </pair>
+  <pair id="359" entailment="NONENTAILMENT" task="IE">
+<t>    Hey guys ,I will be glad if you read my essay and give me tips how ti improve it .Thankx in advance  Prompt : Is the world changing for the better  The world is changing all the time.Some people think it changes for the better ,while otherr think it worsens.In my opinion , the world around us is becoming better and better.I believe that we should always try to ameliorate our apos;own worldapos; ,making the whole world a better place.The subsequent examples from history and literature assert my point of view that our world is always changing and it changes for the better .</t>
+    <h>Is the world changing for the better (pro for better con for not)</h>
+  </pair>
+  <pair id="360" entailment="NONENTAILMENT" task="IE">
+<t>    No, the world is not changing for the better.</t>
+    <h>Is the world changing for the better (pro for better con for not)</h>
+  </pair>
+  <pair id="361" entailment="ENTAILMENT" task="IE">
+<t>    Thank you for the debate :).I believe the world is changing, some for the better, some for worse.Better: More nations are gaining independence and finding a place in this worldDemocracy is expanding slowly but surleyReligion is becoming more of a solace for peooleSome conflicts are being resolved (US vs Cuba)But there are worse things in the world too:Rise of terrorists like Boko Haram and ISISThe Yemen UnrestUkraine warColumbia WarMexico drug warSo yes, the world is changing, for the better and for the worst.Thank you again for this debate :).</t>
+    <h>Is the world changing for the better (pro for better con for not)</h>
+  </pair>
+  <pair id="362" entailment="ENTAILMENT" task="IE">
+<t>    I accept, thank you for this debate :).This is a debate that could go either way as to my position, and I do believe that the world is going in both directions.More in the later rounds, thanks for the debate :).</t>
+    <h>Is the world changing for the better (pro for better con for not)</h>
+  </pair>
+  <pair id="363" entailment="ENTAILMENT" task="IE">
+<t>    The world is changing for the better and for the worstWorld is changing for the betterMore new nations and peoples gaining a homelandsome conflicts are being resolvedthe new generation is making a name for itselftechnolgy is boomingWorld is changing for the worsemore warsmore violencegreater threats of terroists.</t>
+    <h>Is the world changing for the better (pro for better con for not)</h>
+  </pair>
+  <pair id="364" entailment="ENTAILMENT" task="IE">
+<t>    Yes, we are at an all time low, but that doesnapos;t mean Co2 levels arenapos;t increasing [1]:  I would like to point out that global warming doesnapos;t mandate warming all throughout Earthapos;s life.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="365" entailment="ENTAILMENT" task="IE">
+<t>    I actually quoted the wrong part of this website by mistake.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="366" entailment="NONENTAILMENT" task="IE">
+<t>     Now once again if we look at this chart we can see that the gasses that are these Warming gasses and compare it to how much mankind has contributed to the Warming equation we can see that it is very microscopic at best and has no impact upon the globe as it is just so small and microscopic.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="367" entailment="NONENTAILMENT" task="IE">
+<t>    I give you the above graph measuring the past 600 million years of CO2 levels are we are actually at an all time low.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="368" entailment="NONENTAILMENT" task="IE">
+<t>    We may observe that humans release approximately 35 gigatons of CO2 a year.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="369" entailment="ENTAILMENT" task="IE">
+<t>    When both are compared, this becomes irrefutable evidence that man-made global warming exists.In fact, as of 2013, the average global temperature was 14.6 degrees Celsius (58.3 degrees Fahrenheit), which is 0.8 degrees Celsius (1.4 degrees Fahrenheit) warmer than when the year was 1880, and 0.6 degrees Celsius (1.1 degrees Fahrenheit) warmer than the mid-20th century baseline [3][4][5]: Already, on the first contention, we have seen major evidence affirming the resolution.==Contention 2: The cause and effect of the Greenhouse Effect and what makes it more powerful==The greenhouse effect on Planet Earth has been occurring for almost its whole life and is a natural phenomenon, since greenhouse gases such as Co2 have existed on Earth from its birth, thus heating the Earth to help sustain forms of life [6]:quot;To its credit, the greenhouse effect has been around long before humans began to burn fossil fuels, and it is a natural phenomenon in that makes life habitable for all living things.quot; [6]The greenhouse effect operates when the sunapos;s heat passes through Earthapos;s atmosphere, heats the Earthapos;s surface and is reflected back upward.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="370" entailment="ENTAILMENT" task="IE">
+<t>    The voting floor is set at 2000.______________________________________________________________I will add in definitions to prevent semantics arguments from arising.DEFINITIONS Man-made: Created by a human or caused by a human.Global Warming: The state of which the Earthapos;s temperature progressively and abnormally rises, which is attributed to the Greenhouse Effect that is caused by increased levels of carbon dioxide, other greenhouse gases, and pollutants in general.Planet Earth: The 3rd closest planet from the Sun in the solar system, which is known for being the only known planet that currently sustains life.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="371" entailment="NONENTAILMENT" task="IE">
+<t>    I accept.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="372" entailment="ENTAILMENT" task="IE">
+<t>    From this round I will refer to Carbon Dioxide as CO2.Also, my round 2 sites are incorrectly entered.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="373" entailment="NONENTAILMENT" task="IE">
+<t>    I have to forfeit here as my friend is in the hospital with Leukemia and Iapos;ve been busy with him and making sure heapos;s alright.</t>
+    <h>Resolved: Man-made Global Warming, on Planet Earth, Exists.</h>
+  </pair>
+  <pair id="374" entailment="ENTAILMENT" task="IE">
+<t>    Con is literally claiming that because artificial reefs have the qualities of an artificial breakwater that they actually are artificial breakwaters.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="375" entailment="NONENTAILMENT" task="IE">
+<t>    Pro has never claimed that this is policy debate   (From the Government agency rebuttal) 1.) The plan will be carried out through Normal Means, Just as Every Single Policy Debate Plan Is.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="376" entailment="ENTAILMENT" task="IE">
+<t>    COST A.) Cost of the plan itselfCon has claimed the the price of the plan will be somewhere around 9% of the GDP using his personal calculations.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="377" entailment="ENTAILMENT" task="IE">
+<t>    Letapos;s try and begin here:Fairness    Cons claim 1.)    The “entire point of [policy debate] is to evaluate the Affirmative team plan” 2.)    It is absolutely against the rules to ever change or amend a plan in a policy round 3.)    Pro has changed or amended the plan by changing the price 4.)    Pro has attempted to break the rule and has hurt fairness in the round 5.)    Thus, Pro has no more say and must accept con’s price of 9% of the GDP  Rebutal 1.)    Pro has never proclaimed or mandated that this is a policy debate 2.)    The ‘entire point’ of policy debate is NOT to evaluate a plan, but is to promote education and learning 3.)    Con wishes to implement his own price, which I will later explain doesn’t make sense anyways, thus making the round literally impossible to win 4.)    This destroys the educational value of the debate because there can be no education if there is no round in the first place.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="378" entailment="NONENTAILMENT" task="IE">
+<t>    The cons argument will flow as follows: Cost State protection Trade ___________ Case offense answers Hurts biodiversity   Cost The proapos;s claim that the demand by con to protect their case rather than amend it during a debate is invalid.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="379" entailment="NONENTAILMENT" task="IE">
+<t>    AnalyticsCostState protectionTrade disadvantageAnalyticsThe fact that the plan was premed does not excuse a lack of familiarity with the subject by the affirmative.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="380" entailment="ENTAILMENT" task="IE">
+<t>    Every single objection brought up in the last round was fundementally logically deficent, pushed hypocritical terms, limited the round educationally made an inumerable amount of hasty generalizaitons among other logical fallacies and debased this entire debate.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="381" entailment="NONENTAILMENT" task="IE">
+<t>    In summation:Pro dropped Cost disad.Pro dropped State Protection disad.Pro dropped Trade disad.Con negated Tourism/Fishery advantage.Con dropped medical benefits disad.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="382" entailment="ENTAILMENT" task="IE">
+<t>    In this debate we will simply examine wether the USFG should implement Artificial Coral reefs on its coast lines.We will debate on the standard and accepted rules:1.)silence is compliance and dropping an argument or responding to it after the point when rebuttals starts means that you concede.2.)Disadvantages must be run, and arguments made in an orderly fashion, they must be labeled as any of the following: Offcase arguments, Disadvantages, tradeoffs, counter plans, kapos;s, theory arguments...and the like.3.) You must label all of your claims in an obvious manner so that the opposition can easily see what arguments there are to counter, however you do not have to inform them of what they have conceded until rebuttals begin.I hope to see you on the battlefield of intellect, here are my opening arguments:Inherency:a.) Research published in the Journal of Experimental Marine Biology and Ecology, point out that coral declines are reaching crisis proportions: Astro Biology Magazine 12quot;Coral abundance in the Caribbean Sea has gone down about 80 percent in the past 30-40 years, and about one-third of the corals around the world are threatened with extinction,quot; b.) Misconceptions about reef resilience are stopping large scale coral initiatives now: Goreau 5 Ph.D in Biogeochemestry and President of the Global Coral Reef Alliancethreats from globally rising temperatures are found everywhere.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="383" entailment="NONENTAILMENT" task="IE">
+<t>    The flow of the debate will be as follows: Inherencies with the plan Analytics DA – Cost DA – Fails to protect states DA – Blocks ships   Analytics The affirmative fails to provide an agent of action, merely claiming that they will substantially increase investment in the use of mineral accretion.</t>
+    <h>Resolved: The USFG should increase construction of mineral accretion coral reefs in the US</h>
+  </pair>
+  <pair id="384" entailment="ENTAILMENT" task="IE">
+<t>    Due to chemistry, we have learnt about and also discovered new elements, some of which are helpful to mankind and some which that arenapos;t.</t>
+    <h>Chemistry is the worst enemy of environment</h>
+  </pair>
+  <pair id="385" entailment="ENTAILMENT" task="IE">
+<t>    Chemistry is not exactly the worst enemy of the environment.</t>
+    <h>Chemistry is the worst enemy of environment</h>
+  </pair>
+  <pair id="386" entailment="NONENTAILMENT" task="IE">
+<t>    Environment is a combination of biological phenomenon,chemical consequences,applied mathematics and physics.so saying chemistry is the worst enemy not acceptable.</t>
+    <h>Chemistry is the worst enemy of environment</h>
+  </pair>
+  <pair id="387" entailment="ENTAILMENT" task="IE">
+<t>    May I also point out my opponent has already conceded to a rise in temperature from 1979-1998.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="388" entailment="ENTAILMENT" task="IE">
+<t>    Insofar, he has dropped the following four major points, all of which are vital to the resolution:-Surface temperatures are heating up-Hiatus in global warming is due to limited sun-Ocean temperatures are heating up-Increase in Arctic ice can be easily explainedHe has also dropped many other more minor points, but the above are the ones that are worth bringing up.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="389" entailment="NONENTAILMENT" task="IE">
+<t>    one of the headlines was quot;PAPER: apos;GLOBAL WARMINGapos; BIGGEST SCIENCE SCANDAL EVER.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="390" entailment="NONENTAILMENT" task="IE">
+<t>    Three of these are based on measurements taken on the Earthquot;s surface, versions of which are then compiled by Giss, by the US National Oceanic and Atmospheric Administration and by the University of East Angliaquot;s Climatic Research Unit working with the Hadley Centre for Climate Prediction, part of the UK Met Office.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="391" entailment="ENTAILMENT" task="IE">
+<t>    I accept this debate under the following resolution, which has been taken from instances where the opposition has said that global warming is a scam:quot;Global Warming is Legitimate.quot; To clarify, I am NOT debating whether global warming isgood or bad for the Earth.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="392" entailment="NONENTAILMENT" task="IE">
+<t>    The problem with that argument is that we experienced the bulk of that warming between 1979 and 1998 .</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="393" entailment="NONENTAILMENT" task="IE">
+<t>    All I have sen in this debate from my opponent is information from sites that i am quite familiar with.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="394" entailment="ENTAILMENT" task="IE">
+<t>    I extend all arguments.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="395" entailment="ENTAILMENT" task="IE">
+<t>    My opponent has dropped every single point of mine, including the points that show global warming is real due to land and sea temperatures.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="396" entailment="NONENTAILMENT" task="IE">
+<t>    global warming fake or real.</t>
+    <h>global warming</h>
+  </pair>
+  <pair id="397" entailment="ENTAILMENT" task="IE">
+<t>    The study of ice cores from Greenland from 1000 years back show that there was less CO2 production than today.</t>
+    <h>Global Warming is killing us</h>
+  </pair>
+  <pair id="398" entailment="NONENTAILMENT" task="IE">
+<t>    A 2003 study by researchers at the Harvard-Smithsonian Center for Astrophysics shows temperatures from 1000-1100 AD (before fossil fuel use) that are comparable to those from 1900-1990.</t>
+    <h>Global Warming is killing us</h>
+  </pair>
+  <pair id="399" entailment="NONENTAILMENT" task="IE">
+<t>    Global warming and cooling has occurred at periodic levels throughout the history of planet Earth.</t>
+    <h>Global Warming is killing us</h>
+  </pair>
+  <pair id="400" entailment="ENTAILMENT" task="IE">
+<t>    The climate change that is happening from the past decades and the effects that grow rapidly in the present are quite alarming to many people.</t>
+    <h>Global Warming is killing us</h>
+  </pair>
+  <pair id="401" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent has forfeited.</t>
+    <h>Global Warming is killing us</h>
+  </pair>
+  <pair id="402" entailment="ENTAILMENT" task="IE">
+<t>    If you understand climate you should realize there are much more aspects to our atmosphere than CO2 caused by humans .</t>
+    <h>Global Warming is mostly natural and a waste of our time and money to stop it</h>
+  </pair>
+  <pair id="403" entailment="NONENTAILMENT" task="IE">
+<t>    Letapos;s start this off lightly with one argument:If global warming does not occur, then why has the rate of CO2 rose so fastly, out of the ordinary, completely unaffected by climate changes.</t>
+    <h>Global Warming is mostly natural and a waste of our time and money to stop it</h>
+  </pair>
+  <pair id="404" entailment="NONENTAILMENT" task="IE">
+<t>    What a shame.</t>
+    <h>Global Warming is mostly natural and a waste of our time and money to stop it</h>
+  </pair>
+  <pair id="405" entailment="NONENTAILMENT" task="IE">
+<t>    Vote me.</t>
+    <h>Global Warming is mostly natural and a waste of our time and money to stop it</h>
+  </pair>
+  <pair id="406" entailment="ENTAILMENT" task="IE">
+<t>    This is because the word quot;betterquot; was not clearly defined.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="407" entailment="ENTAILMENT" task="IE">
+<t>    His baby is, after all, made of meat like animals.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="408" entailment="NONENTAILMENT" task="IE">
+<t>    Herbivores have molars to easily chew vegetables, and carnivores have K-9 teeth (the pointy teeth, for those of you who donapos;t know what that means) to help tear meat.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="409" entailment="NONENTAILMENT" task="IE">
+<t>     BoP is shared 10,000 Character Max 72 Hour argument time Open voting Open to anyone  Pro MUST argue in round 1, and Pro cannot argue in round 5  Pro: Vegan lifestyle is better.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="410" entailment="NONENTAILMENT" task="IE">
+<t>    Due to me doing a lot of things and having a busy schedule, I will not be able to post this round.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="411" entailment="ENTAILMENT" task="IE">
+<t>    Thank you Con for presenting your arguments.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="412" entailment="NONENTAILMENT" task="IE">
+<t>    Animals are still LOVED, they are not viewed as quot;mere commoditiesquot;.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="413" entailment="NONENTAILMENT" task="IE">
+<t>    Have we had any problems eating animals.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="414" entailment="ENTAILMENT" task="IE">
+<t>    Thank you Con for this debate.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="415" entailment="ENTAILMENT" task="IE">
+<t>    Extending arguments.</t>
+    <h>A Vegan lifestyle is better than a meat-eating one</h>
+  </pair>
+  <pair id="416" entailment="NONENTAILMENT" task="IE">
+<t>    We do not have to live eternally to see the effects of global warming.</t>
+    <h>Models of Climate Change and weather forcasts are equally wrong, most often.</h>
+  </pair>
+  <pair id="417" entailment="ENTAILMENT" task="IE">
+<t>    In ancient times, like when subways were invented, the idea was to allow freedom of movement even when there was a big snowstorm.</t>
+    <h>Models of Climate Change and weather forcasts are equally wrong, most often.</h>
+  </pair>
+  <pair id="418" entailment="ENTAILMENT" task="IE">
+<t>    Climate change is a religion, as we will not be alive to see the truth of the predictions.</t>
+    <h>Models of Climate Change and weather forcasts are equally wrong, most often.</h>
+  </pair>
+  <pair id="419" entailment="NONENTAILMENT" task="IE">
+<t>     Putting the subways aside; no it is not always that the weather forecasts are exact, but they are very often right.</t>
+    <h>Models of Climate Change and weather forcasts are equally wrong, most often.</h>
+  </pair>
+  <pair id="420" entailment="ENTAILMENT" task="IE">
+<t>    What.</t>
+    <h>Models of Climate Change and weather forcasts are equally wrong, most often.</h>
+  </pair>
+  <pair id="421" entailment="ENTAILMENT" task="IE">
+<t>     To correct my opponents reasoning, quot;humansapos; advanced thinking does not benefit the common good.quot; Whether humansapos; ability to think clearly and rationally is objectively great, there is no quot;common goodquot; when it comes to inter-species contact.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="422" entailment="NONENTAILMENT" task="IE">
+<t>     My opponent has said that Earth has thrown so much at the human race and we have survived.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="423" entailment="NONENTAILMENT" task="IE">
+<t>    However, this argument still stands.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="424" entailment="ENTAILMENT" task="IE">
+<t>    Clarification: This debate is on the basis of whether or not humans are better than animals in respect to development and utilization of the environment, i.e.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="425" entailment="ENTAILMENT" task="IE">
+<t>    David Graber, an environmentalist at the National Parks Dept.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="426" entailment="ENTAILMENT" task="IE">
+<t>    My opponent clearly doesnapos;t understand what the term quot;destroyedquot; refers to when he uses it.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="427" entailment="NONENTAILMENT" task="IE">
+<t>    The quot;innovatorsquot; such as my opponent ignore the fact that other living beings exist.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="428" entailment="NONENTAILMENT" task="IE">
+<t>    All my arguments above still apply here, as my opponent has forfeited this round.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="429" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent started with a quote from an environmentalist basically saying that humans have to be wiped out.</t>
+    <h>Humans are better than animals</h>
+  </pair>
+  <pair id="430" entailment="NONENTAILMENT" task="IE">
+<t>    These solar cycles average eleven years in length, and they have ranged in length from nine years to beyond eighteen years.“ [1] The length of the solar predicts climate change as shown in the graph [2] below:The increase in CO2 is very close to exponential, so as Pro noted, AGW theory predicts a straight line temperature rise.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="431" entailment="ENTAILMENT" task="IE">
+<t>    == Rebuttals ==    R1) Solar cycle as a driver of climate   It is good that Roy discards the idea that TSI can explain the modern temperature increase.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="432" entailment="ENTAILMENT" task="IE">
+<t>    A study published in Science reviewed the ISI web of science in order to take a survey of relevant climate literature as to what the causes of climate change are.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="433" entailment="NONENTAILMENT" task="IE">
+<t>    AGW Models fail, so the theory is wrongWe have agreed on a couple of basic points of climate science: 1.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="434" entailment="ENTAILMENT" task="IE">
+<t>    In terms of this debate, man-made factors to climate change would be the emission of greenhouse gasses.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="435" entailment="NONENTAILMENT" task="IE">
+<t>    I accept.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="436" entailment="NONENTAILMENT" task="IE">
+<t>    AGW exists, it but doesnapos;t dominate climate Greenhouse gases cause warming, and I never claimed otherwise.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="437" entailment="ENTAILMENT" task="IE">
+<t>    == Roy’s calculation ==   Roy’s assumption that warming is linear is simply untrue:  Even though CO2 is the dominant climate driver of modern climate-change, it does not mean natural climate variability cannot occur in the system—it does occur.</t>
+    <h>Global Warming is Man-Made</h>
+  </pair>
+  <pair id="438" entailment="ENTAILMENT" task="IE">
+<t>    I would like to thank TylerGraham95 for this truly excellent debate.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="439" entailment="ENTAILMENT" task="IE">
+<t>    In this round, I will post arguments against an anthropogenic cause to the recent global warming, and also consider as much as I can of my opponentapos;s argument.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="440" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;m looking forward to this debate, as I am sure it will be an interesting one!So to kick this thing off Iapos;d like to start by providing the readers with a quick road map of my case and how I aim to negate the given resolution.What I am going to do is set up the basis of a cause effect relationship between greenhouse gases (Such as CO2, Methane, and Water Vapor) and a warming trend, and then confirm this relationship with corroborating corollaries.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="441" entailment="NONENTAILMENT" task="IE">
+<t>    Solar activity is the main cause of modern global warming.The first, second and third premise is not at all confirmed by scientific evidence, nor is it agreed upon in the scientific community, unlike molecular vibrations.The fifth premise matters greatly, and I will rebut it with one main counter contention, which relies on one simple fact: my opponent provides precisely zero evidence that solar activity has been increased in recent years.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="442" entailment="ENTAILMENT" task="IE">
+<t>    It is only natural to expect that fluctuations in the climate can be determined by the amount of solar activity.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="443" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;ve enjoyed the debate weapos;ve had throroughly.For this round, I will go through my opponents rebuttalls, and defend my case against them, and then make my closing statements.A) CO2 Lag in temperature changesSo the first problem we should address with this rebuttal is that it implies that I am trying to prove that GHGs are the driving force behind all forms of climate change.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="444" entailment="ENTAILMENT" task="IE">
+<t>    This is going to be one debate in a project I have devised to decide on the global warming issue once and for all - I will take the pro side in one debate, the con side in another debate, and make my decision from there.Part I - Take the side against global warming.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="445" entailment="NONENTAILMENT" task="IE">
+<t>    I accept this challenge and I accept all of my opponents rules and definitions.</t>
+    <h>Mankind Is Not the Main Cause of Global Warming</h>
+  </pair>
+  <pair id="446" entailment="NONENTAILMENT" task="IE">
+<t>     quot; Without technology, mankind would still be considered as animals trapped on a planet, unarmed and unfit to fight for survival and unable to complete even the simplest tasks.</t>
+    <h>Technology brings more good than harm</h>
+  </pair>
+  <pair id="447" entailment="ENTAILMENT" task="IE">
+<t>     As I have mentioned earlier, I have stated that technology is crucial to the survival of all living creatures.</t>
+    <h>Technology brings more good than harm</h>
+  </pair>
+  <pair id="448" entailment="NONENTAILMENT" task="IE">
+<t>    http://ossfoundation.us.</t>
+    <h>Technology brings more good than harm</h>
+  </pair>
+  <pair id="449" entailment="ENTAILMENT" task="IE">
+<t>    Technology, is used around the globe, from the invention of wheels to the futuristic Google glasses.</t>
+    <h>Technology brings more good than harm</h>
+  </pair>
+  <pair id="450" entailment="NONENTAILMENT" task="IE">
+<t>    Vote con.</t>
+    <h>Technology brings more good than harm</h>
+  </pair>
+  <pair id="451" entailment="ENTAILMENT" task="IE">
+<t>    I have boobs.So do you.Since we are both male, it seems that you are trying to argue that mine are bigger than yours.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="452" entailment="NONENTAILMENT" task="IE">
+<t>    they fired me for calling each customer a communist ;_;COMMIES!I looked in my backyard and saw what kind of looked like a squirrel.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="453" entailment="NONENTAILMENT" task="IE">
+<t>    quot;WTFquot; doesnapos;t even mean quot;What the f*ckquot; it means WHEREapos;S THE FOOD?!?!?!I even have my own t-shirt for this :D (http://skreened.com...)Did you know quot;Dammit Iapos;m Madquot; is the same spelled backwards.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="454" entailment="NONENTAILMENT" task="IE">
+<t>    5 rounds of all randomness.Rules:1.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="455" entailment="ENTAILMENT" task="IE">
+<t>    Good luck.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="456" entailment="NONENTAILMENT" task="IE">
+<t>    https://encrypted-tbn2.gstatic.com...Oh wait, I forgot I have bigger TITS THAN YOU :DPotatoes are my favorite food ever.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="457" entailment="NONENTAILMENT" task="IE">
+<t>    AGAIN!?!?!?!http://dailyfig.figment.com...http://dailyfig.figment.com...http://dailyfig.figment.com...http://dailyfig.figment.com...http://dailyfig.figment.com...Please.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="458" entailment="ENTAILMENT" task="IE">
+<t>    Never mind.Nyan cat.NYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYAN NYANNYANNYANNYANNYANNYANNYANNYANNYANNYAN NYANNYANNYANNYANNYANNYANNYANNYANNYANNYAN NYANNYANNYANNYANNYANNYANNYANNYANNYANNYAN NYANNYANNYANNYANNYANNYANNYANNYANNYANNYAN NYANNYANNYANNYANNYANNYANNYANNYANNYANNYAN ;Because of you I never stray too far from the sidewalk...Wait.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="459" entailment="ENTAILMENT" task="IE">
+<t>     blah blah blah yak yak yak yak yak yak yak yakYou never find the answers if you throw your life awayAnd now...|||||||||||||||||||||||||||||||||||||||||||||||||||||LALALLALALALALALANYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANNYANAnd that is why my opponentapos;s boobs are bigger than my boobs.Remember.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="460" entailment="ENTAILMENT" task="IE">
+<t>     s://encrypted-tbn0.gstatic.com...; alt=quot;quot; /gt;Learn how to upload tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons and tons of photos!Actually, thereapos;s no need.POOPOO ATE A POOPOO THAT ATE A POOPOO THAT ATE A POOPOO, AND NOW ITapos;S POOPOO MOMMY IS SAD.And that is why my opponent has bigger boobs than me.</t>
+    <h>TROLL DEBATE: The Most Random Argument wins!</h>
+  </pair>
+  <pair id="461" entailment="NONENTAILMENT" task="IE">
+<t>    I want to establish, first, that this isnapos;t a debate about Global Warming, but about Man-Made Global Warming.</t>
+    <h>GLOBAL WARMING: A Team Debate.</h>
+  </pair>
+  <pair id="462" entailment="ENTAILMENT" task="IE">
+<t>     == Case ==  Contention 1: Human-caused global warming exists  The International Panel on Climate Change (IPCC) is an international group of some of the world’s most respected scientists.</t>
+    <h>GLOBAL WARMING: A Team Debate.</h>
+  </pair>
+  <pair id="463" entailment="NONENTAILMENT" task="IE">
+<t>    Itapos;s up to the voters to decide if a team has gone too far and is not protected by this rule.---------------------------------------------------------------------------------Team Mikal:- Mikal- Bluesteel- 16kadamTeam Global:- Donald.Keller- Lannan13- Subutai---------------------------------------------------------------------------------Round 1: Acceptance.Round 2: Arguments.Round 3: Arguments and Rebuttals.Round 4: Rebuttals and Closing Statements.**No new contentions on Round 4.**.</t>
+    <h>GLOBAL WARMING: A Team Debate.</h>
+  </pair>
+  <pair id="464" entailment="NONENTAILMENT" task="IE">
+<t>    Contention 1 - Anthropogenic Global Warming There seems to be some disagreement between the different people writing the different arguments.</t>
+    <h>GLOBAL WARMING: A Team Debate.</h>
+  </pair>
+  <pair id="465" entailment="ENTAILMENT" task="IE">
+<t>    R1) Anthropogenic Global Warming (AGW) ExistsRight from the start we can see a lot of errors from Con’s opening arguments and graphs.</t>
+    <h>GLOBAL WARMING: A Team Debate.</h>
+  </pair>
+  <pair id="467" entailment="ENTAILMENT" task="IE">
+<t>    C1Our opponents argue that tropospheric warming is minimal and that no hotspot exists.</t>
+    <h>GLOBAL WARMING: A Team Debate.</h>
+  </pair>
+  <pair id="468" entailment="ENTAILMENT" task="IE">
+<t>    Extend arguments  And thanks to our opposition for trying their best.</t>
+    <h>GLOBAL WARMING: A Team Debate.</h>
+  </pair>
+  <pair id="469" entailment="ENTAILMENT" task="IE">
+<t>    I recently saw a statistic that 1 in 4 Americans were skeptical of global warming and its damage to the world.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="470" entailment="NONENTAILMENT" task="IE">
+<t>    I give you the above graph measuring the past 600 million years of CO2 levels are we are actually at an all time low.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="471" entailment="ENTAILMENT" task="IE">
+<t>    thus the massive amount of Co2 drops that range from super volcano explosions from Yosemite national park or other cataclysmic events that caused the death of millions of plants and thus a spike in Co2 levels.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="472" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent argues stating that the graphs of millions of years ago doesnapos;t matter, but it does, because if the harms of Global Warming that my opponent says are true then we currently wouldnapos;t be here, because as I have showed Earth has had CO2 levels and Global Temperatures way higher then we currently do.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="473" entailment="ENTAILMENT" task="IE">
+<t>     And in relation to your graphs that earth is heading towards a cooing era the measurements used to take them were provably ground based temperature readers that tend to vary widely.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="474" entailment="NONENTAILMENT" task="IE">
+<t>    (http://www.pbs.org...) You have provided one graph while I have provided several that say the same thing done by different sources and not NASA and the EPA which can be bias to your case.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="475" entailment="ENTAILMENT" task="IE">
+<t>    And the hypothesis that the WHO presented does not account for CFCapos;s that are being made in china and India  And in relation to the fact that water account for the greenhouse effect than other greenhouse gases is correct however I believe you are underestimating how much greenhouse gases is composed of three percent of all greenhouse gases (the percentage that is man made).</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="476" entailment="NONENTAILMENT" task="IE">
+<t>    My first graph was showing the CO2 spike that Pro may be refuring to is from massive plant extintion and not from CO2 emmissions.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="477" entailment="ENTAILMENT" task="IE">
+<t>    If steps are not taken to reduce the emission of green house gases and other destructive chemicals that cause acceleration of the greenhouse effect the climate will progressively grow hotter and will lead to further drought, storms, and eventually making earth a inhospitable place or humans to live.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="478" entailment="NONENTAILMENT" task="IE">
+<t>    I accept, please state your case.</t>
+    <h>Global Warming</h>
+  </pair>
+  <pair id="479" entailment="NONENTAILMENT" task="IE">
+<t>     Second of all, very many oil companies would go out of business, causing an absolute crash of the US economy.</t>
+    <h>US Government should ban gas cars</h>
+  </pair>
+  <pair id="480" entailment="NONENTAILMENT" task="IE">
+<t>    Also, there are gasoline cars that are more gas efficient.</t>
+    <h>US Government should ban gas cars</h>
+  </pair>
+  <pair id="481" entailment="ENTAILMENT" task="IE">
+<t>    But oil cars release CO2 pollutionsource: http://planetsave.com...Which leads to Global Warming, which is terrible for human kind, AND melts the ice caps, which can lead to polar bears and penguins having nowhere to live in the North or South poles!s://www2.ucar.edu...; alt=quot;quot; width=quot;769quot; height=quot;398quot; /gt;source: https://www2.ucar.edu...source: http://sitemaker.umich.edu.</t>
+    <h>US Government should ban gas cars</h>
+  </pair>
+  <pair id="482" entailment="NONENTAILMENT" task="IE">
+<t>    Dear con, many oil companies would go out of business.</t>
+    <h>US Government should ban gas cars</h>
+  </pair>
+  <pair id="483" entailment="ENTAILMENT" task="IE">
+<t>    As for gas being cheaper than electric, bikes are far cheaper, and even motorcycles are cheaper.</t>
+    <h>US Government should ban gas cars</h>
+  </pair>
+  <pair id="484" entailment="ENTAILMENT" task="IE">
+<t>    Cars arenapos;t the only thing powered by gas.</t>
+    <h>US Government should ban gas cars</h>
+  </pair>
+  <pair id="485" entailment="NONENTAILMENT" task="IE">
+<t>    One example of this is in a BBC news report from 2006:[1] apos;Six men remain in intensive care after being taken ill during a clinical drugs trial in north-west London.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="486" entailment="ENTAILMENT" task="IE">
+<t>    Less people dieAs modern medicine is improving, less people die by disease.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="487" entailment="ENTAILMENT" task="IE">
+<t>    Nowadays we have alternative options availible.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="488" entailment="NONENTAILMENT" task="IE">
+<t>    Global warming does not exist EuthanasiaMy opponent asserts that: apos;enthusiana was the only treatment availible during olden days.apos; This statement is incorrect.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="489" entailment="ENTAILMENT" task="IE">
+<t>    The world: earth as a planet, societies in all the countries that exist todayBetter: towards a positive directionRound one acceptanceNo semantic arguments.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="490" entailment="NONENTAILMENT" task="IE">
+<t>    I dost accept.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="491" entailment="ENTAILMENT" task="IE">
+<t>    He does not look at the bigger picture, at the general decline from year 1000 to modern time, or even from millions of years ago to now, there has been the similar pattern regardless of CO2 emissions.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="492" entailment="NONENTAILMENT" task="IE">
+<t>    Final RoundSimply stating that youapos;ve won does not mean that you have actually won, Iapos;m afraid.I have not dropped any of my opponents arguments, instead I have flipped them on their head, proving that the things that he paints in a positive light are, in fact, more negative than positive.</t>
+    <h>On Balance the World is Changing for the Better</h>
+  </pair>
+  <pair id="493" entailment="NONENTAILMENT" task="IE">
+<t>    I give you the above graph measuring the past 600 million years of CO2 levels are we are actually at an all time low.</t>
+    <h>Resolved: Man-made Global Warming Exists.</h>
+  </pair>
+  <pair id="494" entailment="ENTAILMENT" task="IE">
+<t>    Global warming is significantly man man made  Here is a general website that debunks anti man made global warming folks, claim by claim http://www.skepticalscience.com.</t>
+    <h>Resolved: Man-made Global Warming Exists.</h>
+  </pair>
+  <pair id="495" entailment="NONENTAILMENT" task="IE">
+<t>    Rules Round 1 is for definitions by Con while Pro will make her opening arguments.</t>
+    <h>Resolved: Man-made Global Warming Exists.</h>
+  </pair>
+  <pair id="496" entailment="NONENTAILMENT" task="IE">
+<t>    When it comes to scientists there are a total of 2,500 scientists that do believe in Global Warming, but when it comes to not believing in Global Warming there is a large amount that have signed a petition stating that they believe that Global Warming is a hoax.</t>
+    <h>Resolved: Man-made Global Warming Exists.</h>
+  </pair>
+  <pair id="497" entailment="NONENTAILMENT" task="IE">
+<t>    Contention 6: Global Warming Public Opinion First off, in a recent poll in the United States showed that 53% of Americans do not believe in Global Warming.</t>
+    <h>Resolved: Man-made Global Warming Exists.</h>
+  </pair>
+  <pair id="498" entailment="ENTAILMENT" task="IE">
+<t>    98% of scientists agree with me.</t>
+    <h>Resolved: Man-made Global Warming Exists.</h>
+  </pair>
+  <pair id="499" entailment="ENTAILMENT" task="IE">
+<t>     plus 98% of scientists agree with me.</t>
+    <h>Resolved: Man-made Global Warming Exists.</h>
+  </pair>
+</entailment-corpus>

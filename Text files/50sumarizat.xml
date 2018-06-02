@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entailment-corpus lang="EN">
+  <pair id="1" entailment="ENTAILMENT" task="IE">
+<t>    Climate change would affect absolutely everywhere on earth.</t>
+    <h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="2" entailment="ENTAILMENT" task="IE">
+<t>     All that white fur will make them sitting ducks if the snow and ice melt away.</t>
+    <h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="3" entailment="ENTAILMENT" task="IE">
+<t>    It is usually accepted that climate change happens and affects oceans and Earth as an ecosystem.</t>
+    <h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="4" entailment="ENTAILMENT" task="IE">
+<t>    This further may influence the economy in various countries and ultimately the lives of the people living there.</t>
+    <h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="5" entailment="NONENTAILMENT" task="IE">
+<t>    Free speech is ALL speech.</t>
+    <h>Climate Skeptics Should All Be Arrested</h>
+  </pair>
+  <pair id="6" entailment="NONENTAILMENT" task="IE">
+<t>     Fact 1: There has been no significant atmospheric warming since 1998.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="7" entailment="NONENTAILMENT" task="IE">
+<t>    First my opponent says that I should have asked questions about the structure earlier in the debate but ignores the fact that, in the comment section, I did ask about the order of the debate and explain what I thought it meant.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="8" entailment="ENTAILMENT" task="IE">
+<t>    My opponent throws around a bunch of irrelevant facts to try to disprove highly credible and peer reviewed articles.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="9" entailment="NONENTAILMENT" task="IE">
+<t>     Rebuttals: Strong hurricane numbers have stayed almost constant since 1880: http://commdiginews.wpengine.netdna-cdn.com.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="10" entailment="ENTAILMENT" task="IE">
+<t>    My opponent uses the tired strategy of cherry picking evidence and red herrings by climate change deniers.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="11" entailment="ENTAILMENT" task="IE">
+<t>    http://iopscience.iop.org...1.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="12" entailment="ENTAILMENT" task="IE">
+<t>    R1 Acceptance R2-3 Arguments amp; rebuttals R4 No new arguments  You beat me last time, I figured its time to challenge you to a rematch.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="13" entailment="NONENTAILMENT" task="IE">
+<t>    I gladly accept your debate and look forward to your arguments.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="14" entailment="ENTAILMENT" task="IE">
+<t>    quot;Trump, who backed climate action in 2009 but now describes climate change as “%^amp;”, is also out of step with the US and other governments’ efforts to turn emissions-cutting pledges into concrete actions in the wake of the Paris climate agreement.</t>
+    <h>Donald Trump is a climate change denier.</h>
+  </pair>
+  <pair id="15" entailment="ENTAILMENT" task="IE">
+<t>     As a devout socialist (coughs and splutters- apparently the word communist is illegal nowadays) I can confirm that the idea of an environment is a plot to destroy the capitalist infidels of the west, the idea is to push their focus so far into ideas of global warming and the environment that they will not see the coming revolution.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="16" entailment="NONENTAILMENT" task="IE">
+<t>    I would say the idea of the environment started with Charles Darwin in 1859.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="17" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;m not sure where some people get these ideas from, but I think this is so crazy I canapos;t even see the other point of view.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="18" entailment="ENTAILMENT" task="IE">
+<t>    Co2 and global temperature have a two way causality relationship.</t>
+    <h>Manmade global climate change is real and is a threat.</h>
+  </pair>
+  <pair id="19" entailment="NONENTAILMENT" task="IE">
+<t>    That the deniers are whistle blowers.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="20" entailment="ENTAILMENT" task="IE">
+<t>    There is an overwhelming scientific consensus climate change presents a serious risk to the future of the Earth and to mankind.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="21" entailment="NONENTAILMENT" task="IE">
+<t>    Assume for a second that the deniers are wrong.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="22" entailment="NONENTAILMENT" task="IE">
+<t>    http://www.washingtontimes.com.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="23" entailment="ENTAILMENT" task="IE">
+<t>    We could also find out years from now that children arenapos;t harmed in the production of child porn even though the evidence right now is substantial and overwhelming children are being harmed by child porn.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="24" entailment="ENTAILMENT" task="IE">
+<t>    You want both sides to be able to debate-- but there is nothing really to debate.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="25" entailment="NONENTAILMENT" task="IE">
+<t>     My opponents second argument states, quot;quot;quot;When the Earth comes out of an ice age, the warming is not initiated by CO2 but by changes in the Earthapos;s orbit.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="26" entailment="ENTAILMENT" task="IE">
+<t>    quot;Your first argument, quot;Carbon dioxide is at 404.48 parts per million and the temperature has increased 1.4 degrees Fahrenheit since 1880.quot; That is not a scientific argument.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="27" entailment="ENTAILMENT" task="IE">
+<t>    Manmade global climate change is the general increase in temperature at rapid rates that is mainly caused by CO2 from industry increases.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="28" entailment="NONENTAILMENT" task="IE">
+<t>    Especially when 25% of all Co2 produced by man has been released in the last 20 years and in that time there has been NO NET WARMING.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="29" entailment="NONENTAILMENT" task="IE">
+<t>     Fact 1: Co2 is a weak greenhouse gas.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="30" entailment="ENTAILMENT" task="IE">
+<t>    My opponentapos;s argument seems endless and confusing.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="31" entailment="NONENTAILMENT" task="IE">
+<t>     Man Made Climate Change, The FACTS:  1.There is NO way to test whether Co2 is the most contributing factor to the worldquot;s climate: Many people I have met say, quot;Manmade global warming is real and Co2 is the cause!quot; but how do you actually test that.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="32" entailment="NONENTAILMENT" task="IE">
+<t>     According to your second argument, Co2 is at 400 ppm.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="33" entailment="NONENTAILMENT" task="IE">
+<t>    Thank you for being honest and admitting you donapos;t understand my arguments.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="34" entailment="ENTAILMENT" task="IE">
+<t>    quot;Not only is the idea that Co2 is causing the recent warming preposterous, but it just doesnquot;t make any sense.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="35" entailment="ENTAILMENT" task="IE">
+<t>    Iapos;m putting this under religion since people are talking faith based approaches to climate change.I have noticed that a surprising number of people still think global climate change is a hoax.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="36" entailment="ENTAILMENT" task="IE">
+<t>    Maybe, just maybe if I had a year to respond I could defeat you.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="37" entailment="ENTAILMENT" task="IE">
+<t>     Here are my reasons: 1.There is NO way to test whether Co2 is the most contributing factor to the worldquot;s climate: Many people I have met say, quot;Man made global warming is real and Co2 is the cause!quot; but how do you actually test that.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="38" entailment="ENTAILMENT" task="IE">
+<t>    There is not doubt in my mind that Co2 causes warming.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="39" entailment="NONENTAILMENT" task="IE">
+<t>     My evidence that CO2 has a huge impact is here:  1: My opponent has acknowledged that CO2 is a green house gas.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="40" entailment="NONENTAILMENT" task="IE">
+<t>     My opponents 1st point states that there is no hard proof that CO2 from humans is the most important part to causing global warming.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="41" entailment="ENTAILMENT" task="IE">
+<t>    My opponents first second and third points state, quot;My opponent has acknowledged that CO2 is a green house gas.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="42" entailment="NONENTAILMENT" task="IE">
+<t>    Iapos;ve shown multiple times that the predictions of those claiming manmade climate change is going to destroy the world have been incorrect.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="43" entailment="ENTAILMENT" task="IE">
+<t>    My opponent is correct the Earthapos;s temperature has been hotter a long time ago.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="44" entailment="ENTAILMENT" task="IE">
+<t>    quot;I like how you reference a democrat to put doubt into my quot;conservativequot; site.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="45" entailment="NONENTAILMENT" task="IE">
+<t>    This is a much deeper topic and, iapos;ll say again, this is a scientific debates.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="46" entailment="NONENTAILMENT" task="IE">
+<t>    The Earth has been SIGNFICANTLY hotter in the past (and more dynamic for that matter), see http://www.wrsc.org.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="47" entailment="NONENTAILMENT" task="IE">
+<t>    In this round I will be refuting my opponentapos;s arguments and I will be resupporting my own arguments My opponent statedquot;First my arguments still stand.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="48" entailment="NONENTAILMENT" task="IE">
+<t>    Thank you for posting this debate, I hope to be a worthy opponent!!!!Your argument is based on the popeapos;s opinion as well as a scientific documentaryMy argument will be based on historical evidence as well as current scientific evidence that contradicts the theory of Global Climate ChangeFirst Iapos;d like to clarify that Global Warming and Global Climate Change are the same theory with a different name and I will treat them as such.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="49" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent stated thatquot;First and foremost, my opponent has dropped the issue of the Inconvenient truth documentaryquot; However, my entire case has been in contradiction to the inconvenient truth documentary, as seen when my opponent states quot;scientific evidence clearly backs up this claim in the documentary an inconvenient truthquot;, I have offered scientific in direct contradiction to the scientific evidence in the movie, thus I have negated my opponentapos;s ENTIRE argument.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="50" entailment="ENTAILMENT" task="IE">
+<t>    [3]quot;The main human activity that emits CO2 is the combustion of fossil fuels (coal, natural gas, and oil) for energy and transportationquot; [2]From the above statement you can clearly see that burning oil causes green house gases.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+</entailment-corpus>

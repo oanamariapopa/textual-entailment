@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entailment-corpus lang="EN">
+  <pair id="1" entailment="ENTAILMENT" task="IE">
+<t>    Climate change would affect absolutely everywhere on earth.</t>
+    <h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="2" entailment="ENTAILMENT" task="IE">
+<t>    Of course it is.</t>
+    <h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="3" entailment="ENTAILMENT" task="IE">
+    <h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="4" entailment="ENTAILMENT" task="IE">
+    <h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="5" entailment="NONENTAILMENT" task="IE">
+    <h>Climate Skeptics Should All Be Arrested</h>
+  </pair>
+  <pair id="6" entailment="NONENTAILMENT" task="IE">
+<t>    There is so much on this issue I donapos;t know what to explain first.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="7" entailment="NONENTAILMENT" task="IE">
+<t>    First my opponent says that I should have asked questions about the structure earlier in the debate but ignores the fact that, in the comment section, I did ask about the order of the debate and explain what I thought it meant.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="8" entailment="ENTAILMENT" task="IE">
+<t>    My opponent throws around a bunch of irrelevant facts to try to disprove highly credible and peer reviewed articles.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="9" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent breaks their own rules by not rebutting my argument.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="10" entailment="ENTAILMENT" task="IE">
+<t>    'R2-3 Arguments amp; rebuttals' StupidapeI didnapos;t break my own rules.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+</entailment-corpus>

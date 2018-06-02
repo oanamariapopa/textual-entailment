@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entailment-corpus lang="EN">
+  <pair id="1" entailment="ENTAILMENT" task="IE">
+<t>    Climate change would affect absolutely everywhere on earth.</t>
+    <h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="2" entailment="ENTAILMENT" task="IE">
+<t>    Of course it is.</t>
+    <h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="3" entailment="ENTAILMENT" task="IE">
+<t>It is usually accepted that climate change happens and affects oceans and Earth as an ecosystem. This further may endanger the lives of the animals in areas around the North and South Poles.</t>
+<h>Is Climate Change A Danger For Arctic And Antarctic Animals?</h>
+  </pair>
+  <pair id="4" entailment="ENTAILMENT" task="IE">
+<t>It is usually accepted that climate change happens and affects oceans and Earth as an ecosystem. This further may influence the economy in various countries and ultimately the lives of the people living there.</t>
+<h>Does Climate Change Affect The Economy Of My Country?</h>
+  </pair>
+  <pair id="5" entailment="NONENTAILMENT" task="IE">
+<t>Free speech is ALL speech!</t>
+<h>Climate Skeptics Should All Be Arrested</h>
+  </pair>
+  <pair id="6" entailment="NONENTAILMENT" task="IE">
+<t>    There is so much on this issue I don't know what to explain first.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="7" entailment="NONENTAILMENT" task="IE">
+<t>    First my opponent says that I should have asked questions about the structure earlier in the debate but ignores the fact that, in the comment section, I did ask about the order of the debate and explain what I thought it meant.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="8" entailment="ENTAILMENT" task="IE">
+<t>    My opponent throws around a bunch of irrelevant facts to try to disprove highly credible and peer reviewed articles.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="9" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent breaks their own rules by not rebutting my argument.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="10" entailment="ENTAILMENT" task="IE">
+<t>    'R2-3 Arguments amp; rebuttals' StupidapeI didn't break my own rules.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="11" entailment="ENTAILMENT" task="IE">
+<t>    My first source shows beyond a resonable doubt man-made climate change exists.</t>
+    <h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="12" entailment="ENTAILMENT" task="IE">
+<t>R1 Acceptance R2-3 Arguments amp; rebuttals R4 No new arguments  You beat me last time, I figured its time to challenge you to a rematch.</t>
+<h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="13" entailment="NONENTAILMENT" task="IE">
+<t>I gladly accept your debate and look forward to your arguments. Good luck!</t>
+<h>Anthropic climate change is real and a threat.</h>
+  </pair>
+  <pair id="14" entailment="ENTAILMENT" task="IE">
+<t>    'Trump, who backed climate action in 2009 but now describes climate change as “%^amp;”, is also out of step with the US and other governments’ efforts to turn emissions-cutting pledges into concrete actions in the wake of the Paris climate agreement.</t>
+    <h>Donald Trump is a climate change denier.</h>
+  </pair>
+  <pair id="15" entailment="ENTAILMENT" task="IE">
+<t>    Hello, loyal comrades.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="16" entailment="NONENTAILMENT" task="IE">
+<t>    I would say the idea of the environment started with Charles Darwin in 1859.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="17" entailment="NONENTAILMENT" task="IE">
+<t>    I'm not sure where some people get these ideas from, but I think this is so crazy I can't even see the other point of view.</t>
+    <h>The concept of the environment is a socialist plot to destroy capitalism.</h>
+  </pair>
+  <pair id="18" entailment="ENTAILMENT" task="IE">
+<t>    OutlineI.</t>
+    <h>Manmade global climate change is real and is a threat.</h>
+  </pair>
+  <pair id="19" entailment="NONENTAILMENT" task="IE">
+<t>    The problem with your argument is humans have been wrong with a lot of ideas.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="20" entailment="ENTAILMENT" task="IE">
+<t>    There is an overwhelming scientific consensus climate change presents a serious risk to the future of the Earth and to mankind.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="21" entailment="NONENTAILMENT" task="IE">
+<t>    I reassert my strongest argument in r2.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="22" entailment="NONENTAILMENT" task="IE">
+<t>    I'm against jailing Climate change deniers.</t>
+    <h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="23" entailment="ENTAILMENT" task="IE">
+<t>We could also find out years from now that children aren't harmed in the production of child porn even though the evidence right now is substantial and overwhelming children are being harmed by child porn. Even though that remote possibility exists it does not mean we shouldn't jail child pornographers.</t>
+<h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="24" entailment="ENTAILMENT" task="IE">
+<t>We can't in good conscience risk the lives of potentially hundreds of millions of people because of an extremely remote chance the scientific consensus is wrong. You want both sides to be able to debate-- but there is nothing really to debate</t>
+<h>Jail climate change deniers.</h>
+  </pair>
+  <pair id="25" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent accepts that his first argument is a correlation so there is no need to strengthen my argument there.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="26" entailment="ENTAILMENT" task="IE">
+<t>    First, I would like to thank my opponent for debating this topic with me in a respectful manner.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="27" entailment="ENTAILMENT" task="IE">
+<t>    There is so much information on the topic that rather than reiterate all of it I will make a short summary.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="28" entailment="NONENTAILMENT" task="IE">
+<t>    Your first argument, 'Carbon dioxide is at 404.48 parts per million and the temperature has increased 1.4 degrees Fahrenheit since 1880.'</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="29" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent does not counter-argue even one of the points I made in my previous arguments/in the comment section.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="30" entailment="ENTAILMENT" task="IE">
+<t>    My opponent's argument seems endless and confusing.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="31" entailment="NONENTAILMENT" task="IE">
+<t>    I am here to debate the MAN MADE side of climate change.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="32" entailment="NONENTAILMENT" task="IE">
+<t>    If you wanted a serious debate then you would not have ignored my entire argument.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="33" entailment="NONENTAILMENT" task="IE">
+<t>    Thank you for being honest and admitting you don't understand my arguments.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="34" entailment="ENTAILMENT" task="IE">
+<t>    Your arguments are long and with little breaks between paragraphs.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="35" entailment="ENTAILMENT" task="IE">
+<t>    I'm putting this under religion since people are talking faith based approaches to climate change.I have noticed that a surprising number of people still think global climate change is a hoax.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="36" entailment="ENTAILMENT" task="IE">
+<t>    I'm just going to give up at this point.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="37" entailment="ENTAILMENT" task="IE">
+<t>    Please stick to only the man-made part of this argument.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="38" entailment="ENTAILMENT" task="IE">
+<t>    *Sorry for assuming your gender but I didn't realize that I wrote 'he' instead of 'they' until the very end! :)  Im going to start my argument by countering my opponents observations.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="39" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent kept mentioning that I was making claims without backing them.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="40" entailment="NONENTAILMENT" task="IE">
+<t>    First I would like to thank my opponent for the opportunity for this debate,  I would like to start by making a few observations: 1) I am arguing that the human race has had a measurable impact on global warming.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="41" entailment="ENTAILMENT" task="IE">
+<t>    My opponents first second and third points state, 'My opponent has acknowledged that CO2 is a green house gas.</t>
+    <h>Man Made Climate Change Is Fake</h>
+  </pair>
+  <pair id="42" entailment="NONENTAILMENT" task="IE">
+<t>    I like how you reference a democrat to put doubt into my 'conservative' site.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="43" entailment="ENTAILMENT" task="IE">
+<t>    My opponent is correct the Earth's temperature has been hotter a long time ago.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="44" entailment="ENTAILMENT" task="IE">
+<t>    'I like how you reference a democrat to put doubt into my 'conservative' site.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="45" entailment="NONENTAILMENT" task="IE">
+<t>    This is a much deeper topic and, i'll say again, this is a scientific debates.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="46" entailment="NONENTAILMENT" task="IE">
+<t>    I will agree that humans have had a measurable (not stating how measurable) effect on the Earth.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="47" entailment="NONENTAILMENT" task="IE">
+<t>    In this round I will be refuting my opponent's arguments and I will be resupporting my own arguments My opponent stated'First my arguments still stand.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="48" entailment="NONENTAILMENT" task="IE">
+<t>    Thank you for posting this debate, I hope to be a worthy opponent!!!!Your argument is based on the pope's opinion as well as a scientific documentaryMy argument will be based on historical evidence as well as current scientific evidence that contradicts the theory of Global Climate ChangeFirst I'd like to clarify that Global Warming and Global Climate Change are the same theory with a different name and I will treat them as such.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="49" entailment="NONENTAILMENT" task="IE">
+<t>    My opponent stated that'First and foremost, my opponent has dropped the issue of the Inconvenient truth documentary' However, my entire case has been in contradiction to the inconvenient truth documentary, as seen when my opponent states 'scientific evidence clearly backs up this claim in the documentary an inconvenient truth', I have offered scientific in direct contradiction to the scientific evidence in the movie, thus I have negated my opponent's ENTIRE argument.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+  <pair id="50" entailment="ENTAILMENT" task="IE">
+<t>    RebuttalsFirst my arguments still stand.</t>
+    <h>Manmade global climate change is real and a threat.</h>
+  </pair>
+</entailment-corpus>
